@@ -1,6 +1,5 @@
-## DNDCharacterCreation 
-### (Working Title)
-In progress description
+## DNDCharacterCreation - (Working Title)
+Description in progress 
 
 ### Status
 Dnd Character Creation is currently in the brainstorming and very early stages of development.
