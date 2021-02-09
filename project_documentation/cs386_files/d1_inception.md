@@ -21,3 +21,7 @@ customizing their character with appearance, backstory, etc. Future work may
 include support for character leveling, design recommendations based on previous
 selections, a saving system with unique keys, and automatic character sheet GUI
 for completed character creations.
+
+2. Initial  value  proposition  and  consumer  segments
+
+3. Interviews summary
