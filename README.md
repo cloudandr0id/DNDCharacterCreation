@@ -1,8 +1,8 @@
-## DNDCharacterCreation - (Working Title)
-Description in progress 
+## DND Character Constructor
+Description in progress
 
 ### Status
-Dnd Character Creation is currently in the brainstorming and very early stages of development.
+DND Character Constructor is currently in the brainstorming and very early stages of development.
 
 ## Development setup
 
