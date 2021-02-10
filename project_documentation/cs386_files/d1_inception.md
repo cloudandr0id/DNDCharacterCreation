@@ -1,6 +1,6 @@
 ## Project Inception
 
-### Group 01 - "DnD Character Creator" (Working Title)
+### Group 01 - DnD Character Constructor
 ### Date: February 15th 2021
 ### Group Members: Grace Hsieh, Jonathan Nation, Hannah Trenary, Richard McCormick,
 ### Ari Jaramillo, Skyler Hanson
