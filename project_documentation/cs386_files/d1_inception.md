@@ -27,38 +27,38 @@ for completed character creations.
 #### **3. Interviews summary**
    Interview 1:
 
-   Interviewer: Ari Jaramillo
+      Interviewer: Ari Jaramillo
 
-   Interviewee: Ryan S.
+      Interviewee: Ryan S.
 
-   When: 2/9/2021
+      When: 2/9/2021
 
-   Consumer Segments: Beginner DND Player, Gamer, College student
+      Consumer Segments: Beginner DND Player, Gamer, College student
 
-   Key Insights:
-     - Simple overall look of character sheet but able to go in-depth to certain aspects
-     - Ability to roll your own die but have a reference
-     - Suggestions only useful for new players
+      Key Insights:
+        - Simple overall look of character sheet but able to go in-depth to certain aspects
+        - Ability to roll your own die but have a reference
+        - Suggestions only useful for new players
 
-   Representative quotes:
-     - “Rolling your own dice feels nice”
-     - “Over time back story isn’t used as much”
-     - “Having suggestions would be useful but only to new players”
-     - “Skills and feats, hard to grasp mainly cause lack of knowledge”
+      Representative quotes:
+        - “Rolling your own dice feels nice”
+        - “Over time back story isn’t used as much”
+        - “Having suggestions would be useful but only to new players”
+        - “Skills and feats, hard to grasp mainly cause lack of knowledge”
 
-   Hypotheses that were validated:
-     - Rolling dice is important to certain users
-     - Simplification of certain aspects of character sheet is necessary 
-     - Need input fields
+      Hypotheses that were validated:
+        - Rolling dice is important to certain users
+        - Simplification of certain aspects of character sheet is necessary 
+        - Need input fields
 
-   Assessment: 
-     - Ability to roll own dice for stats (Must)
-     - Input field for health/mana during creation (Must)
-     - Note section, either temporary or dated (Nice)
-     - Overall character sheet but ability to go in-depth for certain parts (Nice)
-     - Ability to add a photo to character sheet and as an icon for easier recognition (Nice)
-     - Choice between regular suggestion or crazy ones that would be interesting to play (Nice)
-     - Simpler skills and feats (Nice)
+      Assessment: 
+        - Ability to roll own dice for stats (Must)
+        - Input field for health/mana during creation (Must)
+        - Note section, either temporary or dated (Nice)
+        - Overall character sheet but ability to go in-depth for certain parts (Nice)
+        - Ability to add a photo to character sheet and as an icon for easier recognition (Nice)
+        - Choice between regular suggestion or crazy ones that would be interesting to play (Nice)
+        - Simpler skills and feats (Nice)
     
    
 #### 4. Final  value  proposition  and  consumer  segments:
