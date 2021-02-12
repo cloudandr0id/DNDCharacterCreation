@@ -2,11 +2,11 @@
 
 ### Group 01 - DnD Character Constructor
 ### Date: February 15th 2021
-### Group Members: Grace Hsieh, Jonathan Nation, Hannah Trenary, Richard McCormick,
-### Ari Jaramillo, Skyler Hanson
+#### Group Members: Grace Hsieh, Jonathan Nation, Hannah Trenary, Richard McCormick,
+#### Ari Jaramillo, Skyler Hanson
 
 
-#### 1. Introduction
+#### **1. Introduction**
 
 "Dungeons and Dragons" or DnD is a fantasy, tabletop role-playing game
 that brings people together to participate in a continuous campaign.
@@ -22,10 +22,10 @@ include support for character leveling, design recommendations based on previous
 selections, a saving system with unique keys, and automatic character sheet GUI
 for completed character creations.
 
-#### 2. Initial  value  proposition  and  consumer  segments
+#### **2. Initial  value  proposition  and  consumer  segments**
 
-#### 3. Interviews summary
-   **Interview 1:**
+#### **3. Interviews summary**
+   Interview 1:
 
    Interviewer: Ari Jaramillo
 
