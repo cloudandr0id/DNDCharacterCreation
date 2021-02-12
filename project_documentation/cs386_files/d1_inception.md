@@ -25,7 +25,7 @@ for completed character creations.
 #### 2. Initial  value  proposition  and  consumer  segments
 
 #### 3. Interviews summary
-  Interview 1:
+  **Interview 1:**
 
   Interviewer: Ari Jaramillo
   
