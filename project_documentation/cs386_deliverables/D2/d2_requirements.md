@@ -19,10 +19,15 @@ to players who are looking to spend less time keeping track of their sheet,
 and more time playing the game.</p>
 
 <h3>1.3 Value Proposition and Consumer Segment</h3>
+<strong>Value Proposition:</strong></br>
 <p>D&D Character Creator is an easy to use character creation sheet that allows
 D&D players and role players to more efficiently organize their character sheets,
 without an overly-busy UI and restricted features commonly found in other
 similar products.</p>
+
+<strong>Consumer Segment:</strong><br>
+<p>For D&D Players, Role Players, Gamers, and College Students frustrated with
+the complexity of managing multiple complex character sheets.</p>
 
 <h2>2. Stakeholders</h2>
 
