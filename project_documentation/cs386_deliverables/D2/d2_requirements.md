@@ -1,37 +1,53 @@
 <h1>Project Requirements</h1>
-Group 01 – “[D&D Character Creator]”
-Date and location: February 13th, 2021 (Virtual)
-Group Members: Hannah Trenary, Jon Nation, Ari Jaramillo, Grace Hsieh, Skyler Hanson, Richard McCormick
+<p>**Group 01 – “[D&D Character Creator]”**<br>
+Date and location: February 13th, 2021 (Virtual)<br>
+**Group Members:** Hannah Trenary, Jon Nation, Ari Jaramillo, Grace Hsieh, Skyler Hanson, Richard McCormick</p>
 
 <h2>1. Positioning</h2>
 <h3>1.1 Problem Statement</h3>
-The problem of complicated and inefficient character sheets affects D&D players,
+<p>The problem of complicated and inefficient character sheets affects D&D players,
 gamers, college students, and role players, the impact of which is less time
 spent playing Dungeons and Dragons, and more time spent managing and keeping
-track of complex information.
+track of complex information.</p>
 
 <h3>1.2 Product Position Statement</h3>
-For D&D players and Gamers who have multiple Dungeons and Dragons character
+<p>For D&D players and Gamers who have multiple Dungeons and Dragons character
 sheets, D&D Character Creator is a planning and organization site that allows
 players to easily keep track of, manage, view, and change their characters.
 Unlike D&D Beyond, our product provides exceptional functionality and simplicity
 to players who are looking to spend less time keeping track of their sheet,
-and more time playing the game.
+and more time playing the game.</p>
 
 <h3>1.3 Value Proposition and Consumer Segment</h3>
-D&D Character Creator is an easy to use character creation sheet that allows
+<p>D&D Character Creator is an easy to use character creation sheet that allows
 D&D players and role players to more efficiently organize their character sheets,
 without an overly-busy UI and restricted features commonly found in other
-similar products.
+similar products.</p>
 
-2. Stakeholders
-3. Functional Requirements
-4. Non-Functional Requirements
-5. MVP
-6. Use Cases
-6.1 Use Case Diagram
+<h2>2. Stakeholders</h2>
 
-6.2 Use Case Description and Interface Sketch
+<h2>3. Functional Requirements</h2>
 
-7. User Stories
-8. Issue Tracker
+<h2>4. Non-Functional Requirements</h2>
+
+<h2>5. MVP</h2>
+
+<h2>6. Use Cases</h2>
+<h3>6.1 Use Case Diagram</h3>
+
+<h3>6.2 Use Case Description and Interface Sketch</h3>
+
+<h2>7. User Stories</h2>
+<p>As a D&D Player, I want to be able to see all the new options unlocked at
+each level for my character, so that I don't miss out on fun new game
+features.<br>
+**Priority:** (Low, Medium, High)<br>
+**Estimated Implementation Time:** 5 hours</p>
+
+<p>As a role player, I want to manage all of my stats and rolls automatically,
+so that I can spent as much time playing and as little time managing numbers
+as possible.<br>
+**Priority:** (Low, Medium, High)<br>
+**Estimated Implementation Time:** 5 hours</p>
+
+<h2>8. Issue Tracker</h2>
