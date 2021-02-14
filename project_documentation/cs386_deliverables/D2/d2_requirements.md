@@ -1,6 +1,6 @@
 <h1>Project Requirements</h1>
 <p><strong>Group 01 – “[D&D Character Creator]”</strong><br>
-Date and location: February 13th, 2021 (Virtual)<br>
+<strong>Date and location:</strong> February 13th, 2021 (Virtual)<br>
 <strong>Group Members:</strong> Hannah Trenary, Jon Nation, Ari Jaramillo, Grace Hsieh, Skyler Hanson, Richard McCormick</p>
 
 <h2>1. Positioning</h2>
@@ -41,13 +41,19 @@ similar products.</p>
 <p>As a D&D Player, I want to be able to see all the new options unlocked at
 each level for my character, so that I don't miss out on fun new game
 features.<br>
-<strong>Priority:</strong> (Low, Medium, High)<br>
-<strong>Estimated Implementation Time:</strong> 5 hours</p>
+<strong>Priority:</strong> High<br>
+<strong>Estimated Implementation Time:</strong> 5 hours<br>
+<strong>Notes:</strong> Represents an excellent opportunity for adding a niche
+feature not present in competition products. Will take time to implement,
+but offers significant potential for increasing market value.</p>
 
 <p>As a role player, I want to manage all of my stats and rolls automatically,
 so that I can spent as much time playing and as little time managing numbers
 as possible.<br>
-<strong>Priority:<strong> (Low, Medium, High)<br>
-<strong>Estimated Implementation Time:<strong> 5 hours</p>
+<strong>Priority:<strong> Medium<br>
+<strong>Estimated Implementation Time:</strong> 3 hours<br>
+<strong>Notes:</strong> A somewhat mundane but necessary feature that will help
+retain standing among competition, as well as to give ease of access to commonly
+used features.</p>
 
 <h2>8. Issue Tracker</h2>
