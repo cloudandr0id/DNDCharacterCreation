@@ -6,7 +6,7 @@
 #### Ari Jaramillo, Skyler Hanson
 
 
-#### **1. Introduction**
+### **1. Introduction**
 
 "Dungeons and Dragons" or DnD is a fantasy, tabletop role-playing game
 that brings people together to participate in a continuous campaign.
@@ -22,7 +22,7 @@ include support for character leveling, design recommendations based on previous
 selections, a saving system with unique keys, and automatic character sheet GUI
 for completed character creations.
 
-#### **2. Initial  value  proposition  and  consumer  segments**
+### **2. Initial  value  proposition  and  consumer  segments**
   What guess that should be in the application.:
     - Save input of rolled dice
     - Easy Access to character sheets
@@ -42,7 +42,7 @@ for completed character creations.
     - Tech consumers
     - Roleplayers
 
-#### **3. Interviews summary**
+### **3. Interviews summary**
   Interview 1:
 
     Interviewer: Ari Jaramillo
@@ -316,7 +316,7 @@ for completed character creations.
       - Layout Customization (Don’t care)
       - Die rolling calculator (Nice to have)
 
-#### **4. Final  value  proposition  and  consumer  segments:**
+### **4. Final  value  proposition  and  consumer  segments:**
   **Final Value Proposition:** D&D Character Creator is a free, easy-to-use software that allows users to simplify their D&D lives.
 
   **Consumer segments:**
