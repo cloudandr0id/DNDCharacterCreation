@@ -50,7 +50,7 @@ but offers significant potential for increasing market value.</p>
 <p>As a role player, I want to manage all of my stats and rolls automatically,
 so that I can spent as much time playing and as little time managing numbers
 as possible.<br>
-<strong>Priority:<strong> Medium<br>
+<strong>Priority:</strong> Medium<br>
 <strong>Estimated Implementation Time:</strong> 3 hours<br>
 <strong>Notes:</strong> A somewhat mundane but necessary feature that will help
 retain standing among competition, as well as to give ease of access to commonly
