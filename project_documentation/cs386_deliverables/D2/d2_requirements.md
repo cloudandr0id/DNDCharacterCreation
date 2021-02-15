@@ -32,8 +32,17 @@ the complexity of managing multiple complex character sheets.</p>
 <h2>2. Stakeholders</h2>
 
 <h2>3. Functional Requirements</h2>
+* • Personalization: Featuring both computer-generated recommendations and
+fillable inputs for character creation and leveling.
+* • Access to Information: Providing relevant details for character aspects.
+* • Ease of Use: Simple design that compartmentalizes and clarifies each part
+of the character sheet.
 
 <h2>4. Non-Functional Requirements</h2>
+* • Operability
+* • Reliability
+* • Usability
+* • Availability
 
 <h2>5. MVP</h2>
 
