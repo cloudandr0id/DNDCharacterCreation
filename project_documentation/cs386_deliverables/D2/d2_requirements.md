@@ -30,6 +30,9 @@ similar products.</p>
 the complexity of managing multiple complex character sheets.</p>
 
 <h2>2. Stakeholders</h2>
+**Users:** D&D Players of all experience levels, Tabletop gamers, Older people, College students
+**Competitors:** DND Beyond and Roll20
+**Developers:** Hannah Trenary, Ari Jaramillo, Grace Hsieh, Skyler Hanson, Jonathan Nation, Richard McCormick
 
 <h2>3. Functional Requirements</h2>
   -  Personalization: Featuring both computer-generated recommendations and
@@ -39,8 +42,8 @@ fillable inputs for character creation and leveling.
 of the character sheet.
 
 <h2>4. Non-Functional Requirements</h2>
-  -  Operability
-  -  Reliability
+  - Operability
+  - Reliability
   - Usability
   - Availability
 
