@@ -1,18 +1,18 @@
-#Project Requirements  
+# Project Requirements  
 **Group 01 – “[D&D Character Creator]”**  
 **Date and location:** February 13th, 2021 (Virtual)  
 **Group Members:** Hannah Trenary, Jon Nation, Ari Jaramillo, Grace Hsieh, Skyler Hanson, Richard McCormick  
 
 
-##1. Positioning  
-###1.1 Problem Statement  
+## 1. Positioning  
+### 1.1 Problem Statement  
 The problem of complicated and inefficient character sheets affects D&D players,
 gamers, college students, and role players, the impact of which is less time
 spent playing Dungeons and Dragons, and more time spent managing and keeping
 track of complex information.  
 
 
-###1.2 Product Position Statement  
+### 1.2 Product Position Statement  
 For D&D players and Gamers who have multiple Dungeons and Dragons character
 sheets, D&D Character Creator is a planning and organization site that allows
 players to easily keep track of, manage, view, and change their characters.
@@ -20,7 +20,7 @@ Unlike D&D Beyond, our product provides exceptional functionality and simplicity
 to players who are looking to spend less time keeping track of their sheet,
 and more time playing the game.  
 
-###1.3 Value Proposition and Consumer Segment  
+### 1.3 Value Proposition and Consumer Segment  
 **Value Proposition:**  
 D&D Character Creator is an easy to use character creation sheet that allows
 D&D players and role players to more efficiently organize their character sheets,
@@ -31,32 +31,32 @@ similar products.
 For D&D Players, Role Players, Gamers, and College Students frustrated with
 the complexity of managing multiple complex character sheets.  
 
-##2. Stakeholders
+## 2. Stakeholders
 **Users:** D&D Players of all experience levels, Tabletop gamers, Older people, College students  
 **Competitors:** DND Beyond and Roll20  
 **Developers:** Hannah Trenary, Ari Jaramillo, Grace Hsieh, Skyler Hanson, Jonathan Nation, Richard McCormick  
 
-##3. Functional Requirements
+## 3. Functional Requirements
   -  Personalization: Featuring both computer-generated recommendations and
 fillable inputs for character creation and leveling.
   - Access to Information: Providing relevant details for character aspects.
   -  Ease of Use: Simple design that compartmentalizes and clarifies each part
 of the character sheet.
 
-##4. Non-Functional Requirements
+## 4. Non-Functional Requirements
   - Operability
   - Reliability
   - Usability
   - Availability
 
-##5. MVP
+## 5. MVP
 
-##6. Use Cases
-###6.1 Use Case Diagram
+## 6. Use Cases
+### 6.1 Use Case Diagram
 
-###6.2 Use Case Description and Interface Sketch
+### 6.2 Use Case Description and Interface Sketch
 
-##7. User Stories  
+## 7. User Stories  
 As a D&D Player, I want to be able to see all the new options unlocked at
 each level for my character, so that I don't miss out on fun new game
 features.  
@@ -75,4 +75,4 @@ as possible.
 retain standing among competition, as well as to give ease of access to commonly
 used features.  
 
-##8. Issue Tracker
+## 8. Issue Tracker
