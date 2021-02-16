@@ -50,7 +50,14 @@ of the character sheet.
   - Availability
 
 ## 5. MVP
-
+**MVP:** Our MVP will include a simple user interface which will allow users to create characters, 
+while providing them with some recommendations for popular character builds. Dice rolls can be made 
+through a Random Number Generator, or by manually inputting a rolled value. Once characters are created,
+they can be saved to a server.
+**Feature to Validate:** The main feature we will be validating is the character creator itself. 
+We will validate that by creating test characters using both methods of stat generation, by randomly 
+generating some numbers and manually inputting others. Additionally, we will validate the ability 
+to save and retrieve a character sheet by sending our test characters to the server and retrieving them.
 ## 6. Use Cases
 ### 6.1 Use Case Diagram
 
