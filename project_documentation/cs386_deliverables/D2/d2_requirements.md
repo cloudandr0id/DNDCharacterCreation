@@ -54,6 +54,7 @@ of the character sheet.
 while providing them with some recommendations for popular character builds. Dice rolls can be made 
 through a Random Number Generator, or by manually inputting a rolled value. Once characters are created,
 they can be saved to a server.
+
 **Feature to Validate:** The main feature we will be validating is the character creator itself. 
 We will validate that by creating test characters using both methods of stat generation, by randomly 
 generating some numbers and manually inputting others. Additionally, we will validate the ability 
