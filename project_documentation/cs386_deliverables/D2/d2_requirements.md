@@ -32,7 +32,7 @@ For D&D Players, Role Players, Gamers, and College Students frustrated with
 the complexity of managing multiple complex character sheets.  
 
 ## 2. Stakeholders
-**Users:** D&D Players of all experience levels, Tabletop gamers, Older people, College students  
+**Users:** D&D Players of all experience levels, Tabletop gamers, role players, College students  
 **Competitors:** DND Beyond and Roll20  
 **Developers:** Hannah Trenary, Ari Jaramillo, Grace Hsieh, Skyler Hanson, Jonathan Nation, Richard McCormick  
 
@@ -50,14 +50,14 @@ of the character sheet.
   - Availability
 
 ## 5. MVP
-**MVP:** Our MVP will include a simple user interface which will allow users to create characters, 
-while providing them with some recommendations for popular character builds. Dice rolls can be made 
+**MVP:** Our MVP will include a simple user interface which will allow users to create characters,
+while providing them with some recommendations for popular character builds. Dice rolls can be made
 through a Random Number Generator, or by manually inputting a rolled value. Once characters are created,
 they can be saved to a server.
 
-**Feature to Validate:** The main feature we will be validating is the character creator itself. 
-We will validate that by creating test characters using both methods of stat generation, by randomly 
-generating some numbers and manually inputting others. Additionally, we will validate the ability 
+**Feature to Validate:** The main feature we will be validating is the character creator itself.
+We will validate that by creating test characters using both methods of stat generation, by randomly
+generating some numbers and manually inputting others. Additionally, we will validate the ability
 to save and retrieve a character sheet by sending our test characters to the server and retrieving them.
 ## 6. Use Cases
 ### 6.1 Use Case Diagram
