@@ -78,6 +78,15 @@ features.
 feature not present in competition products. Will take time to implement,
 but offers significant potential for increasing market value.  
 
+As a D&D Player, I want the software product to have the character sheet,
+the character creation process, and the character leveling process to be as
+simple and direct as possible.
+**Priority:** High
+**Estimated Implementation Time:** 8 hours
+**Notes:** Depending on potential customer input, reformatting, adding, or
+removing sections of the default character sheet may be necessary to achieving
+greater readability.
+
 As a role player, I want to manage all of my stats and rolls automatically,
 so that I can spent as much time playing and as little time managing numbers
 as possible.  
@@ -86,6 +95,15 @@ as possible.
 **Notes:** A somewhat mundane but necessary feature that will help
 retain standing among competition, as well as to give ease of access to commonly
 used features.  
+
+As a D&D Player, I want to have access to all relevant information about my
+character's aspects so that I can better understand my character's stats and
+abilities.
+**Priority:** Medium
+**Estimated Implementation Time:** 4 hours
+**Notes:** Allows users access to the description and modifiers for classes,
+subclasses, racial abilities, enchanted items, and other objects or
+characteristics.
 
 As a college student, I want to be able to share my character easily so that my
 friends and dungeon master can see my character and the progress I've made.   
@@ -102,3 +120,6 @@ enjoy rolling dice but save money.
 if they can't afford buying dice.   
 
 ## 8. Issue Tracker
+![Trello Frontend/Website Page](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/website_frontend_trello.png?raw=true)
+
+![Trello Backend/Software Page](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/software_backend_trello.png?raw=true)
