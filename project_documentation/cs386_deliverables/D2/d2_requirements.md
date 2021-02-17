@@ -92,7 +92,7 @@ friends and dungeon master can see my character and the progress I've made.
 **Priority:** Low   
 **Estimated Implementation Time:** 1.5 hours  
 **Notes:** A cool feature that allows players to show off their characters to
-friends and Dungeon Masters not implemented by competitors.
+friends and Dungeon Masters not implemented by competitors. 
 
 
 
