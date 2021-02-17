@@ -42,6 +42,8 @@ fillable inputs for character creation and leveling.
   - Access to Information: Providing relevant details for character aspects.
   -  Ease of Use: Simple design that compartmentalizes and clarifies each part
 of the character sheet.
+  -  Continuity: User accounts that allow users to save and retrieve their
+  information.
 
 ## 4. Non-Functional Requirements
   - Operability
