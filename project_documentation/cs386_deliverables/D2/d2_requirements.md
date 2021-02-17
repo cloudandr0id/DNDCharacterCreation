@@ -88,11 +88,11 @@ retain standing among competition, as well as to give ease of access to commonly
 used features.  
 
 As a college student, I want to be able to share my character easily so that my
-friends and dungeon master can see my character and the progress I've made.
+friends and dungeon master can see my character and the progress I've made.   
 **Priority:** Low   
 **Estimated Implementation Time:** 1.5 hours  
 **Notes:** A cool feature that allows players to show off their characters to
-friends and Dungeon Masters not implemented by competitors. 
+friends and Dungeon Masters not implemented by competitors.
 
 
 
