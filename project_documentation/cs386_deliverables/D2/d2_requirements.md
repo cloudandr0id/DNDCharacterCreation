@@ -76,6 +76,7 @@ to save and retrieve a character sheet by sending our test characters to the ser
 1. User A creates a character sheet, and shares it with User B.  
 2. User B recieves the invitation/link to view character sheet from User A.  
 3. User B can open the invitation link, and see User A's sheet.  
+
 **Alternative Flow:**
 1. User A sends a sheet to User B.  
 2. User B clicks the link sent by User A, and can now view the sheet.  
