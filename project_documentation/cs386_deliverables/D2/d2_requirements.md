@@ -64,6 +64,8 @@ to save and retrieve a character sheet by sending our test characters to the ser
 ## 6. Use Cases
 ### 6.1 Use Case Diagram
 
+![Use case diagram](https://drive.google.com/file/d/1ZR3HvEuZ3QIkJ9MlqrEODr3AC0XCSuT4/view?usp=sharing)
+
 ### 6.2 Use Case Description and Interface Sketch
 
 ## 7. User Stories  
