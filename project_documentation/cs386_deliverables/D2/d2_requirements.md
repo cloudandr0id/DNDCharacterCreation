@@ -67,6 +67,19 @@ to save and retrieve a character sheet by sending our test characters to the ser
 ![Use case diagram](https://raw.githubusercontent.com/cloudandr0id/DNDCharacterCreation/main/project_documentation/cs386_deliverables/deliverable_media/D2UseCases.JPG)
 
 ### 6.2 Use Case Description and Interface Sketch
+**Use Case:** View Shared Character  
+**Actor:** User  
+**Description:** Open a character sheet which has been shared by another user.
+**Preconditions:** User must have been shared an existing character sheet created by another user.  
+**Post-Conditions:** Character sheets, shared and created by another user, will be open and available for viewing.  
+**Main Flow:**
+1. User A creates a character sheet, and shares it with User B.  
+2. User B recieves the invitation/link to view character sheet from User A.  
+3. User B can open the invitation link, and see User A's sheet.  
+**Alternative Flow:**
+1. User A sends a sheet to User B.  
+2. User B clicks the link sent by User A, and can now view the sheet.  
+
 
 ## 7. User Stories  
 As a D&D Player, I want to be able to see all the new options unlocked at
