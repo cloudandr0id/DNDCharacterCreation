@@ -97,6 +97,20 @@ to save and retrieve a character sheet by sending our test characters to the ser
       2. The system notifies the user of the error
       3. User fixes the error and resubmits
 
+**User Case:** Modify Account Information
+**Actor:** Admin
+**Description:** Modify a user’s account to what they want to be changed.
+**Precondition:** User has made an account and contacted admin for modifying their account.
+**Postcondition:** Admin modifies account to what the user wants to modify.
+**Main Flow:**
+1. User makes account and makes a mistake in their account making.
+2. User contacts admin to help them modify their account.
+3.  Admin goes into the system and modifies account to what the User has asked them to fix.
+
+**Alternative Flow:**
+1. User makes account and makes no mistake in their account making.
+2. User doesn’t need to contact admin and is happy!
+
 
 ## 7. User Stories  
 As a D&D Player, I want to be able to see all the new options unlocked at
@@ -148,6 +162,21 @@ enjoy rolling dice but save money.
 **Estimated Implementation Time:** 2 hours  
 **Notes:** An interesting feature that would allow more people to play the game
 if they can't afford buying dice.   
+
+As an admin, I want to update the character sheet content so that my future
+users get the character sheet that would most benefit them.
+**Priority:** High
+**Estimated Implementation Time:**  4 hours
+**Notes:** A user interface that has input field that allows users to put their stats,
+HP, and/or spells in the place they want them in the corresponded place in the character sheet.
+
+As a D&D Player I want to create an account so that I can store all my
+characters I create into a safe place so that I do not lose them in a pile of papers.
+**Priority:** Medium
+**Estimated Implementation Time:**  2 hours
+**Notes:** Account system that allows players to store their character sheets
+and bring those stored character sheets the next time I log into the website.
+
 
 ## 8. Issue Tracker
 ![Trello Frontend/Website Page](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/website_frontend_trello.png?raw=true)
