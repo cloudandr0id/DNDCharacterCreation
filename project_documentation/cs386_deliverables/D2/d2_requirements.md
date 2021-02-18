@@ -74,12 +74,28 @@ to save and retrieve a character sheet by sending our test characters to the ser
 **Post-Conditions:** Character sheets, shared and created by another user, will be open and available for viewing.  
 **Main Flow:**
 1. User A creates a character sheet, and shares it with User B.  
-2. User B recieves the invitation/link to view character sheet from User A.  
+2. User B receives the invitation/link to view character sheet from User A.  
 3. User B can open the invitation link, and see User A's sheet.  
-
-**Alternative Flow:**
+**Alternative Flow(s):**
 1. User A sends a sheet to User B.  
-2. User B clicks the link sent by User A, and can now view the sheet.  
+      1. User B clicks the link sent by User A, and can now view the sheet.  
+
+**Use Case:** Edit DND Character
+**Actor:** User
+**Description:** Edit the data of a character sheet
+**Preconditions:** A completed character sheet and account must already exist.
+**Post-Conditions:** The character sheet GUI will feature the updated information.
+**Main Flow:**
+1. User selects the option to edit their character sheet.
+2. User goes through and edits whatever values they wish.
+3. User submits the changes by saving.
+**Alternative Flow(s):**
+1. User exits before saving
+      1. The system disregards all changes and keeps original values
+2. User types an invalid input
+      1. The system does not save the changes
+      2. The system notifies the user of the error
+      3. User fixes the error and resubmits
 
 
 ## 7. User Stories  
