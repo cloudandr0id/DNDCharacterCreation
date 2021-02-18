@@ -190,6 +190,18 @@ characters I create into a safe place so that I do not lose them in a pile of pa
 **Notes:** Account system that allows players to store their character sheets
 and bring those stored character sheets the next time I log into the website.
 
+As a D&D Player, I want to be able to update my stats on the sheet quickly during games.
+**Priority:** High
+**Estimated Implementation Time:** 2 hours
+**Notes:** The user interface will allow the user to manipulate information 
+that will save to the cloud for further use.
+
+As an admin, I want to see a list or a count of all created character sheets to know how much 
+server space I have left and see how popular the program is.
+**Priority:** Medium
+**Estimated Implementation Time:** 1.5 hours
+**Notes:** Account system that will allow admin to view and possibly manipulate the data of character
+sheets created on all instances of the program as long as they are successfully saved to the cloud.
 
 ## 8. Issue Tracker
 ![Trello Frontend/Website Page](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/website_frontend_trello.png?raw=true)
