@@ -127,17 +127,17 @@ to save and retrieve a character sheet by sending our test characters to the ser
 
 **Use Case:** View list of all accounts
 
-    **Actor:** Admin  
+  **Actor:** Admin  
 
-    **Description:** Admin views a list containing information for all account.
+  **Description:** Admin views a list containing information for all account.
 
-    **Preconditions:** Admin needs to be logged into accounts.
+  **Preconditions:** Admin needs to be logged into accounts.
 
-    **Post-Conditions:** Admin would have viewed a list of all accounts.   
+  **Post-Conditions:** Admin would have viewed a list of all accounts.   
 
-    **Main Flow:**
-    1. Admin logs onto account.    
-    2. Admin can look at list of all accounts   
+  **Main Flow:**
+  1. Admin logs onto account.    
+  2. Admin can look at list of all accounts   
 
 ## 7. User Stories  
 As a D&D Player, I want to be able to see all the new options unlocked at
