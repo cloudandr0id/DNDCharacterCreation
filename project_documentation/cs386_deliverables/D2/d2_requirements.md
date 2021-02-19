@@ -105,7 +105,7 @@ to save and retrieve a character sheet by sending our test characters to the ser
 **Main Flow:**
 1. User makes account and makes a mistake in their account making.
 2. User contacts admin to help them modify their account.
-3.  Admin goes into the system and modifies account to what the User has asked them to fix.
+3. Admin goes into the system and modifies account to what the User has asked them to fix.
 
 **Alternative Flow:**
 1. User makes account and makes no mistake in their account making.
@@ -124,6 +124,15 @@ to save and retrieve a character sheet by sending our test characters to the ser
 **Alternative Flow:**
 1. The sheet is blank and will not create the link.
 2. The sheet is incomplete and based on how much is missing it will not create a link.
+
+**Use Case:** View list of all accounts
+**Actor:** Admin  
+**Description:** Admin views a list containing information for all account.   
+**Preconditions:** Admin needs to be logged into accounts.   
+**Post-Conditions:** Admin would have viewed a list of all accounts.   
+**Main Flow:**
+1. Admin logs onto account.    
+2. Admin can look at list of all accounts   
 
 ## 7. User Stories  
 As a D&D Player, I want to be able to see all the new options unlocked at
@@ -193,10 +202,10 @@ and bring those stored character sheets the next time I log into the website.
 As a D&D Player, I want to be able to update my stats on the sheet quickly during games.
 **Priority:** High
 **Estimated Implementation Time:** 2 hours
-**Notes:** The user interface will allow the user to manipulate information 
+**Notes:** The user interface will allow the user to manipulate information
 that will save to the cloud for further use.
 
-As an admin, I want to see a list or a count of all created character sheets to know how much 
+As an admin, I want to see a list or a count of all created character sheets to know how much
 server space I have left and see how popular the program is.
 **Priority:** Medium
 **Estimated Implementation Time:** 1.5 hours
