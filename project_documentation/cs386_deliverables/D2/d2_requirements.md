@@ -126,10 +126,15 @@ to save and retrieve a character sheet by sending our test characters to the ser
 2. The sheet is incomplete and based on how much is missing it will not create a link.
 
 **Use Case:** View list of all accounts
+
 **Actor:** Admin  
-**Description:** Admin views a list containing information for all account.   
-**Preconditions:** Admin needs to be logged into accounts.   
+
+**Description:** Admin views a list containing information for all account.
+
+**Preconditions:** Admin needs to be logged into accounts.
+
 **Post-Conditions:** Admin would have viewed a list of all accounts.   
+
 **Main Flow:**
 1. Admin logs onto account.    
 2. Admin can look at list of all accounts   
