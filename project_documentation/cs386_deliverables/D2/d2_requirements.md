@@ -140,10 +140,15 @@ to save and retrieve a character sheet by sending our test characters to the ser
   2. Admin can look at list of all accounts   
 
 **Use Case:** Delete an account
+
 **Actor:** User
+
 **Description:** The user deletes their account and their characters are subsequently deleted.
+
 **Preconditions:** The user has an account and is currently logged into it.
+
 **Post-Conditions:** The account and any characters created by that account are deleted.
+
 **Main Flow:**
 1. User selects the “delete account” option
 2. The user is asked to confirm the account deletion
