@@ -139,6 +139,20 @@ to save and retrieve a character sheet by sending our test characters to the ser
   1. Admin logs onto account.    
   2. Admin can look at list of all accounts   
 
+**Use Case:** Delete an account
+**Actor:** User
+**Description:** The user deletes their account and their characters are subsequently deleted.
+**Preconditions:** The user has an account and is currently logged into it.
+**Post-Conditions:** The account and any characters created by that account are deleted.
+**Main Flow:**
+1. User selects the “delete account” option
+2. The user is asked to confirm the account deletion
+3. Any characters connected to the account are deleted from the server
+4. The account and any related information is deleted from the server
+
+**Alternative Flow:**
+1. The user does not confirm the account deletion and no change is made.
+
 ## 7. User Stories  
 As a D&D Player, I want to be able to see all the new options unlocked at
 each level for my character, so that I don't miss out on fun new game
@@ -149,6 +163,20 @@ features.
 feature not present in competition products. Will take time to implement,
 but offers significant potential for increasing market value.  
 
+As a beginner D&D player, I want suggestions to be given based on the 
+choices that I have already made so my characters are well built.
+**Priority:** Medium
+**Estimated Implementation time:** 4 Hours
+**Notes:** Would try to guess what kind of build a player is making based
+ off of race and class, and show popular choices for that build.
+
+As a D&D player, I want to be able to share my characters with multiple 
+people at once so that I do not need to carry multiple copies of my 
+character sheet or take time introducing my character to every other player.
+**Priority:** Low
+**Estimated Implementation time:** 2 Hours
+**Notes:** This is largely optional as guides can be found online but would consolidate the information. 
+ 
 As a D&D Player, I want the software product to have the character sheet,
 the character creation process, and the character leveling process to be as
 simple and direct as possible.
