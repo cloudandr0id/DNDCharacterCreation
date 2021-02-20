@@ -96,6 +96,8 @@ to save and retrieve a character sheet by sending our test characters to the ser
       1. The system does not save the changes
       2. The system notifies the user of the error
       3. User fixes the error and resubmits
+      
+![Edit DND Character](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/Edit%20User%20Interface.png?raw=true)
 
 **User Case:** Modify Account Information
 **Actor:** Admin
@@ -168,20 +170,20 @@ features.
 feature not present in competition products. Will take time to implement,
 but offers significant potential for increasing market value.  
 
-As a beginner D&D player, I want suggestions to be given based on the 
+As a beginner D&D player, I want suggestions to be given based on the
 choices that I have already made so my characters are well built.
 **Priority:** Medium
 **Estimated Implementation time:** 4 Hours
 **Notes:** Would try to guess what kind of build a player is making based
  off of race and class, and show popular choices for that build.
 
-As a D&D player, I want to be able to share my characters with multiple 
-people at once so that I do not need to carry multiple copies of my 
+As a D&D player, I want to be able to share my characters with multiple
+people at once so that I do not need to carry multiple copies of my
 character sheet or take time introducing my character to every other player.
 **Priority:** Low
 **Estimated Implementation time:** 2 Hours
-**Notes:** This is largely optional as guides can be found online but would consolidate the information. 
- 
+**Notes:** This is largely optional as guides can be found online but would consolidate the information.
+
 As a D&D Player, I want the software product to have the character sheet,
 the character creation process, and the character leveling process to be as
 simple and direct as possible.
