@@ -96,7 +96,7 @@ to save and retrieve a character sheet by sending our test characters to the ser
       1. The system does not save the changes
       2. The system notifies the user of the error
       3. User fixes the error and resubmits
-      
+
 ![Edit DND Character](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/Edit%20User%20Interface.png?raw=true)
 
 **User Case:** Modify Account Information
@@ -140,6 +140,8 @@ to save and retrieve a character sheet by sending our test characters to the ser
   **Main Flow:**
   1. Admin logs onto account.    
   2. Admin can look at list of all accounts   
+
+![View list of all accounts](https://raw.githubusercontent.com/cloudandr0id/DNDCharacterCreation/main/project_documentation/cs386_deliverables/deliverable_media/ViewAccountListUseCase.png)
 
 **Use Case:** Delete an account
 
