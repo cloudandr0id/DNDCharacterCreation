@@ -123,7 +123,7 @@ to save and retrieve a character sheet by sending our test characters to the ser
 **Postconditions:** A different user can view the sheet.  
 **Main Flow:**  
     1. User prompts the program to save the sheet.  
-    . Server creates a link or string that is capable of saving the data in the sheet.
+    2. Server creates a link or string that is capable of saving the data in the sheet.
     3. User is prompted to email or save the link to manually share.  
 **Alternative Flow(s):**
     1. The sheet is blank and will not create the link.
