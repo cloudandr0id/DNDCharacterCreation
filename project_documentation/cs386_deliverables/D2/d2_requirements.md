@@ -168,7 +168,7 @@ to save and retrieve a character sheet by sending our test characters to the ser
 **Alternative Flow:**
 1. The user does not confirm the account deletion and no change is made.
 
-![Delete an Account] (https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/DeleteAccountUseCase.png)
+![Delete an Account] (https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/DeleteAccountUseCase.png?raw=true)
 
 ## 7. User Stories  
 As a D&D Player, I want to be able to see all the new options unlocked at
