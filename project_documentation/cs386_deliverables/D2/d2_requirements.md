@@ -80,7 +80,7 @@ to save and retrieve a character sheet by sending our test characters to the ser
 1. User A sends a sheet to User B.  
       1. User B clicks the link sent by User A, and can now view the sheet.
 
-![View Shared Characters](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/ViewSharedCharactersUseCase.png) 
+![View Shared Characters](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/ViewSharedCharactersUseCase.png)
 
 **Use Case:** Edit DND Character
 **Actor:** User
@@ -102,18 +102,17 @@ to save and retrieve a character sheet by sending our test characters to the ser
 ![Edit DND Character](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/Edit%20User%20Interface.png?raw=true)
 
 **User Case:** Modify Account Information
-**Actor:** Admin
+**Actor:** User
 **Description:** Modify a user’s account to what they want to be changed.
-**Precondition:** User has made an account and contacted admin for modifying their account.
-**Postcondition:** Admin modifies account to what the user wants to modify.
+**Precondition:** User has made an account and contacted User for modifying their account.
+**Postcondition:** User modifies account to what the user wants to modify.
 **Main Flow:**
-1. User makes account and makes a mistake in their account making.
-2. User contacts admin to help them modify their account.
-3. Admin goes into the system and modifies account to what the User has asked them to fix.
-
-**Alternative Flow:**
-1. User makes account and makes no mistake in their account making.
-2. User doesn’t need to contact admin and is happy!
+    1. User makes account and makes a mistake in their account making.
+    2. User contacts User to help them modify their account.
+    3. User goes into the system and modifies account to what the User has asked them to fix.
+**Alternative Flow(s):**
+    1. User makes account and makes no mistake in their account making.
+    2. User doesn’t need to contact User and is happy!
 
 ![Modify Account Information](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/ModifyUserAccountsUseCase.png?raw=true)
 
@@ -123,50 +122,38 @@ to save and retrieve a character sheet by sending our test characters to the ser
 **Preconditions:** A character sheet has been created by a user and saved.  
 **Postconditions:** A different user can view the sheet.  
 **Main Flow:**  
-1. User prompts the program to save the sheet.  
-2. Server creates a link or string that is capible of saving the data in the sheet.
-3. User is prompted to email or save the link to manually share.  
-
-**Alternative Flow:**
-1. The sheet is blank and will not create the link.
-2. The sheet is incomplete and based on how much is missing it will not create a link.  
+    1. User prompts the program to save the sheet.  
+    2. Server creates a link or string that is capible of saving the data in the sheet.
+    3. User is prompted to email or save the link to manually share.  
+**Alternative Flow(s):**
+    1. The sheet is blank and will not create the link.
+    2. The sheet is incomplete and based on how much is missing it will not create a link.  
 
 ![Share Character](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/ShareCharacterUseCase.png)
 
 **Use Case:** View list of all accounts
-
-  **Actor:** Admin  
-
-  **Description:** Admin views a list containing information for all account.
-
-  **Preconditions:** Admin needs to be logged into accounts.
-
-  **Post-Conditions:** Admin would have viewed a list of all accounts.   
-
-  **Main Flow:**
-  1. Admin logs onto account.    
-  2. Admin can look at list of all accounts   
+**Actor:** User  
+**Description:** User views a list containing information for all account.
+**Preconditions:** User needs to be logged into accounts.
+**Post-Conditions:** User would have viewed a list of all accounts.   
+**Main Flow:**
+  1. User logs onto account.    
+  2. User can look at list of all accounts   
 
 ![View list of all accounts](https://raw.githubusercontent.com/cloudandr0id/DNDCharacterCreation/main/project_documentation/cs386_deliverables/deliverable_media/ViewAccountListUseCase.png)
 
 **Use Case:** Delete an account
-
 **Actor:** User
-
 **Description:** The user deletes their account and their characters are subsequently deleted.
-
 **Preconditions:** The user has an account and is currently logged into it.
-
 **Post-Conditions:** The account and any characters created by that account are deleted.
-
 **Main Flow:**
-1. User selects the “delete account” option
-2. The user is asked to confirm the account deletion
-3. Any characters connected to the account are deleted from the server
-4. The account and any related information is deleted from the server
-
-**Alternative Flow:**
-1. The user does not confirm the account deletion and no change is made.
+    1. User selects the “delete account” option
+    2. The user is asked to confirm the account deletion
+    3. Any characters connected to the account are deleted from the server
+    4. The account and any related information is deleted from the server
+**Alternative Flow(s):**
+    1. The user does not confirm the account deletion and no change is made.
 
 ![Delete an Account](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/DeleteAccountUseCase.png?raw=true)
 
@@ -235,7 +222,7 @@ enjoy rolling dice but save money.
 **Notes:** An interesting feature that would allow more people to play the game
 if they can't afford buying dice.   
 
-As an admin, I want to update the character sheet content so that my future
+As an User, I want to update the character sheet content so that my future
 users get the character sheet that would most benefit them.
 **Priority:** High
 **Estimated Implementation Time:**  4 hours
@@ -255,11 +242,11 @@ As a D&D Player, I want to be able to update my stats on the sheet quickly durin
 **Notes:** The user interface will allow the user to manipulate information
 that will save to the cloud for further use.
 
-As an admin, I want to see a list or a count of all created character sheets to know how much
+As an User, I want to see a list or a count of all created character sheets to know how much
 server space I have left and see how popular the program is.
 **Priority:** Medium
 **Estimated Implementation Time:** 1.5 hours
-**Notes:** Account system that will allow admin to view and possibly manipulate the data of character
+**Notes:** Account system that will allow User to view and possibly manipulate the data of character
 sheets created on all instances of the program as long as they are successfully saved to the cloud.
 
 ## 8. Issue Tracker
