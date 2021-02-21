@@ -3,7 +3,6 @@
 **Date and location:** February 13th, 2021 (Virtual)  
 **Group Members:** Hannah Trenary, Jon Nation, Ari Jaramillo, Grace Hsieh, Skyler Hanson, Richard McCormick  
 
-
 ## 1. Positioning  
 ### 1.1 Problem Statement  
 The problem of complicated and inefficient character sheets affects D&D players,
@@ -102,57 +101,99 @@ to save and retrieve a character sheet by sending our test characters to the ser
 ![Edit DND Character](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/Edit%20User%20Interface.png?raw=true)
 
 **User Case:** Modify Account Information
+
 **Actor:** User
+
 **Description:** Modify a user’s account to what they want to be changed.
+
 **Precondition:** User has made an account and contacted User for modifying their account.
+
 **Postcondition:** User modifies account to what the user wants to modify.
+
 **Main Flow:**
+
     1. User makes account and makes a mistake in their account making.
+
     2. User contacts User to help them modify their account.
+
     3. User goes into the system and modifies account to what the User has asked them to fix.
+
 **Alternative Flow(s):**
+
     1. User makes account and makes no mistake in their account making.
+
     2. User doesn’t need to contact User and is happy!
+
 
 ![Modify Account Information](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/ModifyUserAccountsUseCase.png?raw=true)
 
-**User Case:** Share Character Sheet  
+**User Case:** Share Character Sheet
+
 **Actor:** User
+
 **Description:** Create a way to export or share a character sheet.
+
 **Preconditions:** A character sheet has been created by a user and saved.  
+
 **Postconditions:** A different user can view the sheet.  
+
 **Main Flow:**  
+
     1. User prompts the program to save the sheet.  
+
     2. Server creates a link or string that is capable of saving the data in the sheet.
+
     3. User is prompted to email or save the link to manually share.  
+
 **Alternative Flow(s):**
+
     1. The sheet is blank and will not create the link.
+
     2. The sheet is incomplete and based on how much is missing it will not create a link.  
+
 
 ![Share Character](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/ShareCharacterUseCase.png)
 
 **Use Case:** View list of all accounts
+
 **Actor:** User  
+
 **Description:** User views a list containing information for all account.
+
 **Preconditions:** User needs to be logged into accounts.
+
 **Post-Conditions:** User would have viewed a list of all accounts.   
+
 **Main Flow:**
+
   1. User logs onto account.    
+
   2. User can look at list of all accounts   
 
 ![View list of all accounts](https://raw.githubusercontent.com/cloudandr0id/DNDCharacterCreation/main/project_documentation/cs386_deliverables/deliverable_media/ViewAccountListUseCase.png)
 
 **Use Case:** Delete an account
+
 **Actor:** User
+
 **Description:** The user deletes their account and their characters are subsequently deleted.
+
 **Preconditions:** The user has an account and is currently logged into it.
+
 **Post-Conditions:** The account and any characters created by that account are deleted.
+
 **Main Flow:**
+
     1. User selects the “delete account” option
+
     2. The user is asked to confirm the account deletion
+
     3. Any characters connected to the account are deleted from the server
+
     4. The account and any related information is deleted from the server
+
 **Alternative Flow(s):**
+
     1. The user does not confirm the account deletion and no change is made.
 
 ![Delete an Account](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/DeleteAccountUseCase.png?raw=true)
