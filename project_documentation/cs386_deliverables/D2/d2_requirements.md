@@ -115,19 +115,21 @@ to save and retrieve a character sheet by sending our test characters to the ser
 
 ![Modify Account Information](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/ModifyUserAccountsUseCase.png?raw=true)
 
-**User Case:** Share Character Sheet
-**Actor:** User
-**Description:** Create a way to export or share a character sheet.
-**Preconditions:** A character sheet has been created by a user and saved.
-**Postconditions:** A different user can view the sheet.
-**Main Flow:**
-1. User prompts the program to save the sheet.
-2. Server creates a link or string that is capible of saving the data in the sheet.
-3. User is prompted to email or save the link to manually share.
+**User Case:** Share Character Sheet  
+**Actor:** User 
+**Description:** Create a way to export or share a character sheet. 
+**Preconditions:** A character sheet has been created by a user and saved.  
+**Postconditions:** A different user can view the sheet.  
+**Main Flow:**  
+1. User prompts the program to save the sheet.  
+2. Server creates a link or string that is capible of saving the data in the sheet. 
+3. User is prompted to email or save the link to manually share.  
 
-**Alternative Flow:**
-1. The sheet is blank and will not create the link.
-2. The sheet is incomplete and based on how much is missing it will not create a link.
+**Alternative Flow:** 
+1. The sheet is blank and will not create the link. 
+2. The sheet is incomplete and based on how much is missing it will not create a link.  
+
+![Share Character](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/ShareCharacterUseCase.png)
 
 **Use Case:** View list of all accounts
 
