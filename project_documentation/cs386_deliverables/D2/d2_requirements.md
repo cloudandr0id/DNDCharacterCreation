@@ -113,6 +113,8 @@ to save and retrieve a character sheet by sending our test characters to the ser
 1. User makes account and makes no mistake in their account making.
 2. User doesn’t need to contact admin and is happy!
 
+![Modify Account Information](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/ModifyUserAccountsUseCase.png?raw=true)
+
 **User Case:** Share Character Sheet
 **Actor:** User
 **Description:** Create a way to export or share a character sheet.
