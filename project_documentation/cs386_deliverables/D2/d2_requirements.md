@@ -131,7 +131,7 @@ to save and retrieve a character sheet by sending our test characters to the ser
 1. The sheet is blank and will not create the link.
 2. The sheet is incomplete and based on how much is missing it will not create a link.  
 
-![Share Character](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/ShareCharacterUseCase.png?raw=true)
+![Share Character](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/ShareCharacterUseCase.png)
 
 **Use Case:** View list of all accounts
 
@@ -168,7 +168,7 @@ to save and retrieve a character sheet by sending our test characters to the ser
 **Alternative Flow:**
 1. The user does not confirm the account deletion and no change is made.
 
-![Delete an Account] (https://https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/DeleteAccountUseCase.png)
+![Delete an Account] (https://https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/DeleteAccountUseCase.png?raw=true)
 
 ## 7. User Stories  
 As a D&D Player, I want to be able to see all the new options unlocked at
