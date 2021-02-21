@@ -67,17 +67,17 @@ to save and retrieve a character sheet by sending our test characters to the ser
 ![Use case diagram](https://raw.githubusercontent.com/cloudandr0id/DNDCharacterCreation/main/project_documentation/cs386_deliverables/deliverable_media/D2UseCases.JPG)
 
 ### 6.2 Use Case Description and Interface Sketch
-**Use Case:** View Shared Character  
-**Actor:** User  
+**Use Case:** View Shared Character
+**Actor:** User
 **Description:** Open a character sheet which has been shared by another user.
-**Preconditions:** User must have been shared an existing character sheet created by another user.  
-**Post-Conditions:** Character sheets, shared and created by another user, will be open and available for viewing.  
+**Preconditions:** User must have been shared an existing character sheet created by another user.
+**Post-Conditions:** Character sheets, shared and created by another user, will be open and available for viewing.
 **Main Flow:**
-1. User A creates a character sheet, and shares it with User B.  
-2. User B receives the invitation/link to view character sheet from User A.  
-3. User B can open the invitation link, and see User A's sheet.  
+1. User A creates a character sheet, and shares it with User B.
+2. User B receives the invitation/link to view character sheet from User A.
+3. User B can open the invitation link, and see User A's sheet.
 **Alternative Flow(s):**
-1. User A sends a sheet to User B.  
+1. User A sends a sheet to User B.
       1. User B clicks the link sent by User A, and can now view the sheet.
 
 ![View Shared Characters](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/ViewSharedCharactersUseCase.png)
@@ -123,7 +123,7 @@ to save and retrieve a character sheet by sending our test characters to the ser
 **Postconditions:** A different user can view the sheet.  
 **Main Flow:**  
     1. User prompts the program to save the sheet.  
-    2. Server creates a link or string that is capible of saving the data in the sheet.
+    . Server creates a link or string that is capable of saving the data in the sheet.
     3. User is prompted to email or save the link to manually share.  
 **Alternative Flow(s):**
     1. The sheet is blank and will not create the link.
