@@ -167,20 +167,6 @@ features.
 feature not present in competition products. Will take time to implement,
 but offers significant potential for increasing market value.  
 
-As a beginner D&D player, I want suggestions to be given based on the
-choices that I have already made so my characters are well built.
-**Priority:** Medium
-**Estimated Implementation time:** 4 Hours
-**Notes:** Would try to guess what kind of build a player is making based
- off of race and class, and show popular choices for that build.
-
-As a D&D player, I want to be able to share my characters with multiple
-people at once so that I do not need to carry multiple copies of my
-character sheet or take time introducing my character to every other player.
-**Priority:** Low
-**Estimated Implementation time:** 2 Hours
-**Notes:** This is largely optional as guides can be found online but would consolidate the information.
-
 As a D&D Player, I want the software product to have the character sheet,
 the character creation process, and the character leveling process to be as
 simple and direct as possible.
@@ -190,23 +176,64 @@ simple and direct as possible.
 removing sections of the default character sheet may be necessary to achieving
 greater readability.
 
-As a role player, I want to manage all of my stats and rolls automatically,
-so that I can spent as much time playing and as little time managing numbers
-as possible.  
-**Priority:** Medium  
-**Estimated Implementation Time:** 3 hours  
-**Notes:** A somewhat mundane but necessary feature that will help
-retain standing among competition, as well as to give ease of access to commonly
-used features.  
+As an User, I want to update the character sheet content so that my future
+users get the character sheet that would most benefit them.
+**Priority:** High
+**Estimated Implementation Time:**  4 hours
+**Notes:** A user interface that has input field that allows users to put their stats,
+HP, and/or spells in the place they want them in the corresponded place in the character sheet.
 
-As a D&D Player, I want to have access to all relevant information about my
-character's aspects so that I can better understand my character's stats and
-abilities.
+As a D&D Player, I want to be able to update my stats on the sheet quickly during games.
+**Priority:** High
+**Estimated Implementation Time:** 2 hours
+**Notes:** The user interface will allow the user to manipulate information
+that will save to the cloud for further use.
+
+As a beginner D&D player, I want suggestions to be given based on the
+choices that I have already made so my characters are well built.
 **Priority:** Medium
-**Estimated Implementation Time:** 4 hours
-**Notes:** Allows users access to the description and modifiers for classes,
-subclasses, racial abilities, enchanted items, and other objects or
-characteristics.
+**Estimated Implementation time:** 4 Hours
+**Notes:** Would try to guess what kind of build a player is making based
+ off of race and class, and show popular choices for that build.
+
+ As a role player, I want to manage all of my stats and rolls automatically,
+ so that I can spent as much time playing and as little time managing numbers
+ as possible.  
+ **Priority:** Medium  
+ **Estimated Implementation Time:** 3 hours  
+ **Notes:** A somewhat mundane but necessary feature that will help
+ retain standing among competition, as well as to give ease of access to commonly
+ used features.  
+
+ As a D&D Player, I want to have access to all relevant information about my
+ character's aspects so that I can better understand my character's stats and
+ abilities.
+ **Priority:** Medium
+ **Estimated Implementation Time:** 4 hours
+ **Notes:** Allows users access to the description and modifiers for classes,
+ subclasses, racial abilities, enchanted items, and other objects or
+ characteristics.
+
+ As a D&D Player I want to create an account so that I can store all my
+ characters I create into a safe place so that I do not lose them in a pile of papers.
+ **Priority:** Medium
+ **Estimated Implementation Time:**  2 hours
+ **Notes:** Account system that allows players to store their character sheets
+ and bring those stored character sheets the next time I log into the website.
+
+ As an User, I want to see a list or a count of all created character sheets to know how much
+ server space I have left and see how popular the program is.
+ **Priority:** Medium
+ **Estimated Implementation Time:** 1.5 hours
+ **Notes:** Account system that will allow User to view and possibly manipulate the data of character
+ sheets created on all instances of the program as long as they are successfully saved to the cloud.
+
+As a D&D player, I want to be able to share my characters with multiple
+people at once so that I do not need to carry multiple copies of my
+character sheet or take time introducing my character to every other player.
+**Priority:** Low
+**Estimated Implementation time:** 2 Hours
+**Notes:** This is largely optional as guides can be found online but would consolidate the information.
 
 As a college student, I want to be able to share my character easily so that my
 friends and dungeon master can see my character and the progress I've made.   
@@ -221,33 +248,6 @@ enjoy rolling dice but save money.
 **Estimated Implementation Time:** 2 hours  
 **Notes:** An interesting feature that would allow more people to play the game
 if they can't afford buying dice.   
-
-As an User, I want to update the character sheet content so that my future
-users get the character sheet that would most benefit them.
-**Priority:** High
-**Estimated Implementation Time:**  4 hours
-**Notes:** A user interface that has input field that allows users to put their stats,
-HP, and/or spells in the place they want them in the corresponded place in the character sheet.
-
-As a D&D Player I want to create an account so that I can store all my
-characters I create into a safe place so that I do not lose them in a pile of papers.
-**Priority:** Medium
-**Estimated Implementation Time:**  2 hours
-**Notes:** Account system that allows players to store their character sheets
-and bring those stored character sheets the next time I log into the website.
-
-As a D&D Player, I want to be able to update my stats on the sheet quickly during games.
-**Priority:** High
-**Estimated Implementation Time:** 2 hours
-**Notes:** The user interface will allow the user to manipulate information
-that will save to the cloud for further use.
-
-As an User, I want to see a list or a count of all created character sheets to know how much
-server space I have left and see how popular the program is.
-**Priority:** Medium
-**Estimated Implementation Time:** 1.5 hours
-**Notes:** Account system that will allow User to view and possibly manipulate the data of character
-sheets created on all instances of the program as long as they are successfully saved to the cloud.
 
 ## 8. Issue Tracker
 ![Trello Frontend/Website Page](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/deliverable_media/website_frontend_trello.png?raw=true)
