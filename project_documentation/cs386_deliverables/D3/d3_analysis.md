@@ -4,3 +4,5 @@ In the D&D World, there is an inefficient design to the Character Sheet that giv
 Functional requirements of this system are personalization, access to information, ease of use and continuity.
 
 Personalization in a *character sheet* is specific to each **user**. There should be a choice to either create a *character sheet* from scratch or for the computer to generate one for them. Aspects within the *character sheet* will be given further room to change after initial creation with the implementation of changeable <u>attributes that pertain to Dungeons and Dragons</u>. Without these features, the editability and appeal of paper and pen during a game of Dungeons and Dragons is rendered useless and the product will end up being a character ‘printer’ instead of a user’s character sheet.
+
+<ins> test test test </ins>
