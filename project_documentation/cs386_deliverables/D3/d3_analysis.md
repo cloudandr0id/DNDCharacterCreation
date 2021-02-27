@@ -30,3 +30,6 @@ will have access to saving their *character sheets* and retrieving the informati
 This product would not be usable if the **user** cannot save their information and have to restart their progress every time the user has a session.
 
 All of the non-functional requirements can be seen throughout the program. Using these as the baseline for production will ensure that all shareholder interests are met and a successful product will have been created.
+
+#Model
+![UML Diagram](https://raw.githubusercontent.com/cloudandr0id/DNDCharacterCreation/main/project_documentation/cs386_deliverables/deliverable_media/D3UMLDiagram.JPG)
