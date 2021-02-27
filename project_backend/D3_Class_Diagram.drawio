@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-27T22:00:00.774Z" agent="5.0 (Windows)" etag="LHEeQIqsJEaA1U8zjTrf" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-27T22:01:12.694Z" agent="5.0 (Windows)" etag="xvwhY3A6Nh06hQOzCNeu" version="14.4.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,8 +108,11 @@
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="kZrZsZAS5U_sE23btRKt-75" value="&lt;div&gt;Name : string&lt;/div&gt;&lt;div&gt;Race : string&lt;/div&gt;&lt;div&gt;Class : string&lt;/div&gt;&lt;div&gt;Traits : Array&lt;/div&gt;&lt;div&gt;Description : String&lt;/div&gt;&lt;div&gt;Spell Slots : array&lt;br&gt;&lt;/div&gt;&lt;div&gt;Equipment : array&lt;/div&gt;&lt;div&gt;Skills/Proficiency : array&lt;br&gt;&lt;/div&gt;&lt;div&gt;Feats : array&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="kZrZsZAS5U_sE23btRKt-45">
+          <mxGeometry y="26" width="160" height="174" as="geometry" />
+        </mxCell>
         <mxCell id="kZrZsZAS5U_sE23btRKt-86" value="&lt;div&gt;Export_to_Sheet()&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="kZrZsZAS5U_sE23btRKt-45">
-          <mxGeometry y="26" width="160" height="30" as="geometry" />
+          <mxGeometry y="200" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kZrZsZAS5U_sE23btRKt-46" value="Skills / Proficiency&#xa;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="840" y="575" width="160" height="180" as="geometry">
@@ -132,9 +135,6 @@
         </mxCell>
         <mxCell id="kZrZsZAS5U_sE23btRKt-123" value="Request_Info(Feat)" style="whiteSpace=wrap;html=1;" vertex="1" parent="kZrZsZAS5U_sE23btRKt-47">
           <mxGeometry y="110" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="kZrZsZAS5U_sE23btRKt-75" value="&lt;div&gt;Name : string&lt;/div&gt;&lt;div&gt;Race : string&lt;/div&gt;&lt;div&gt;Class : string&lt;/div&gt;&lt;div&gt;Traits : Array&lt;/div&gt;&lt;div&gt;Description : String&lt;/div&gt;&lt;div&gt;Spell Slots : array&lt;br&gt;&lt;/div&gt;&lt;div&gt;Equipment : array&lt;/div&gt;&lt;div&gt;Skills/Proficiency : array&lt;br&gt;&lt;/div&gt;&lt;div&gt;Feats : array&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="276" width="160" height="174" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
