@@ -1,0 +1,4 @@
+class name, martial/spellcaster
+
+Cleric, spellcaster
+Fighter, martial

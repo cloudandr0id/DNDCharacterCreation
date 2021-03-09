@@ -1,0 +1,3 @@
+race, traits
+
+Gnome, [+2 Intelligence, Darkvision, Gnome Cunning]
