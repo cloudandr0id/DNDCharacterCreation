@@ -1,0 +1,11 @@
+body {
+	background-color: darkgrey;
+}
+
+/* test style for test button */
+#testbutton {
+  width: 100px;
+}
+#logoimage {
+  width: 100px;
+}

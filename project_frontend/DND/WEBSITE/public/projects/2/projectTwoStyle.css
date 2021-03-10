@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'montserratthin_italic';
+    src: url('gontserrat-thinitalic-webfont.woff2') format('woff2'),
+         url('gontserrat-thinitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+	background-color: darkgrey;
+}
+
+h1 {
+	color: navy;
+	font-weight: bold;
+	font-family: montserratthin_italic;
+}
+
+h2 {
+	color: navy;
+	border-bottom: 4px solid navy;
+	margin-left: 10px;
+	font-family: montserratthin_italic;
+	font-weight: bold;
+}
+
+h3 {
+	color: navy;
+	border-bottom: 2px solid grey;
+	padding: 10px;
+	margin: 10px;
+}
+
+p {
+	padding: 10px;
+	margin: 5px;
+}
+
+
+div {
+	margin-top: 20px;
+}
