@@ -6,6 +6,9 @@ body {
 #headerButton {
   width: 100px;
 }
+#button {
+	width: 150px
+}
 #logoimage {
   width: 100px;
 }
