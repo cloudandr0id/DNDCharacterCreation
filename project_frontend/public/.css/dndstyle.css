@@ -6,9 +6,17 @@ body {
 #headerButton {
   width: 100px;
 }
+
 #button {
 	width: 150px
 }
 #logoimage {
   width: 100px;
+}
+/* style to add better image for character creator*/
+input #createButton {
+
+background:url("/.buttons/CreateButton.png");
+width: 100px;
+
 }
