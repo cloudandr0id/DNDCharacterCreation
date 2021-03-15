@@ -1,2 +1,0 @@
-email, password, account type, character objects
-hnt37@nau.edu, password, user, [Ukko, Aegios, Silas]
