@@ -5,10 +5,13 @@ const server = express()
 server.use(express.urlencoded({'extended': true}))
 server.use(logger('dev'))
 
-// Routes
-server.get('/homework/6', (req, res) => {
-  res.send(`Your number is: ${Math.floor(Math.random() * 100) + 1}`)
-})
+function getStat() {
+var strengthStat = document.getElementById('StrengthID').value;
+var result = document.getElementById('result');
+
+reult.textContent = 'Your Strength is: ' + strengthStat;
+}
+
 
 
 // Setup static page serving for all the pages in "public"

@@ -1,0 +1,59 @@
+<html>
+<head>
+<title>Madlib</title>
+
+<script type='text/javascript' language='Javascript'>
+<!--
+
+function createmadlib() {
+
+var adj1 = document.myform.textfield1.value ;
+var noun1  = document.myform.textfield2.value ;
+
+document.write("<html>");
+document.write("<head> <title>My MadLib</title> </head>");
+document.write("<body bgcolor= \"white\">");
+document.write("<b>Note that I only implemented part of the function to create the madlib. I only generate the first few lines of the madlib. You will need to write more code to generate the entire madlib</b><P>");
+document.write("<h1>The madlib you created is</h1> <p>");
+document.write("Today I went to the zoo. I saw a ");
+document.write(adj1);
+document.write(" ");
+document.write(noun1);
+
+document.write("<p><a href=\"mylib7.html\">Return to Madlib</a>");
+}
+
+//-->
+</script>
+
+</head>
+
+<body bgcolor="white">
+<form name="myform">
+<h1>Madlib</h1>
+Enter an adjective: <input type="textfield" name="textfield1" value =
+""> </input><p>
+Enter a noun: <input type="textfield" name="textfield2" value =
+""> </input><p>
+Enter a verb: <input type="textfield" name="textfield3" value =
+""> </input><p>
+Enter an adverb: <input type="textfield" name="textfield4" value =
+""> </input><p>
+Enter an adjective: <input type="textfield" name="textfield5" value =
+""> </input><p>
+Enter a noun: <input type="textfield" name="textfield6" value =
+""> </input><p>
+Enter a noun: <input type="textfield" name="textfield7" value =
+""> </input><p>
+Enter an adjective: <input type="textfield" name="textfield8" value =
+""> </input><p>
+Enter a verb: <input type="textfield" name="textfield9" value =
+""> </input><p>
+Enter a verb: <input type="textfield" name="textfield10" value =""> </input><p>
+Enter an adjective: <input type="textfield" name="textfield11" value =
+""> </input><p>
+<p>
+<input type="button" name="button1" value ="ClickMe" onclick="createmadlib()"> </input>
+</form>
+</body>
+</html>
