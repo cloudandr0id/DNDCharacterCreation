@@ -1,16 +1,47 @@
 <<!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
-    <meta charset="utf-8">
-    <title>Profile</title>
+    <link rel = "stylesheet" href = "/.css/dndstyle.css">
+    <title>Login</title>
+
+    <nav>
+      <img id="logoimage" alt="DND CC Logo" src="/.buttons/logo.png">
+
+      <a href="/">
+        <img id="headerButton" alt="Home" src="/.buttons/HomeButton.png">
+      </a>
+
+      <a	href="/characters/">
+        <img id="headerButton" alt="Characters" src="/.buttons/CharButton.png">
+      </a>
+
+      <a href= "/contact/">
+        <img id="headerButton" alt="About/Contact" src="/.buttons/ContButton.png">
+      </a>
+
+      <a href="https://github.com/cloudandr0id/DNDCharacterCreation" target="_blank">
+        <img id="headerButton" alt="Github" src="/.buttons/GHButton.png">
+      </a>
+
+      <a href="/profile/">
+        <img id="headerButton" alt="Profile" src="/.buttons/AccButton.png">
+      </a>
+
+      <a href = "/login/">
+      <img id="headerButton" alt="Login" src="/.buttons/LogButton.png">
+      </a>
+      <hr>
+    </nav>
   </head>
   <body>
-    <label for="Username">Username: </label>
-    <input type="Username" id="Username" name="Username"><br>
+    <form>
+      <label for="Username">Username: </label>
+      <input type="Username" id="Username" name="Username"><br>
 
-    <label for="Password">Password: </label>
-    <input type="Password" id="Password" name="Password"><br>
+      <label for="Password">Password: </label>
+      <input type="Password" id="Password" name="Password"><br>
 
-    <input type="submit" value="login">
+      <input type="submit" value="Login">
+    </form>
   </body>
 </html>
