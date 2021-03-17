@@ -2,7 +2,7 @@
 Description in progress
 
 ### Status
-DND Character Constructor is currently in the brainstorming and very early stages of development.
+DND Character Constructor is currently in the very early stages of development.
 
 ## Development setup
 
