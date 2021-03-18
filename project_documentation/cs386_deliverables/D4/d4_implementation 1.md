@@ -19,7 +19,7 @@ Trello: https://trello.com/dndcharactercreator
 
 
 # 5. Deployment
-
+The product is being hosted [here](hwsrv-766227.hostwindsdns.com).
 
 # 6. Licensing
 
