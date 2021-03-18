@@ -28,7 +28,10 @@ The product is being hosted [here](http://hwsrv-766227.hostwindsdns.com).
 
 
 # 8. Look & Feel
-
+We want our site to mimic the look and feel of a real D&D character sheet. To achieve this, 
+the finished sheet is arranged in a layout similar to that of a real one. Additionally, 
+we use natural colors to evoke a medieval aesthetic. Our goal is for players to be taken out 
+of the roleplaying experience as little as possible while using our site
 
 # 9. Lessons Learned
 
