@@ -24,7 +24,7 @@ Trello: https://trello.com/dndcharactercreator
 
 # 3. Adopted Technologies
 **Hostwinds:**
-<<<<<<< HEAD
+Hostwinds, we used this to host our website because some team members have used this service before.
 
 
 **WinSCP/FileZilla:**
@@ -37,7 +37,6 @@ Hostwinds. Some members on the team have used this before to host a website.
 
 **WinSCP/FileZilla:**
 WinSCP, FileZilla, and others. This is the best software to transfer files to the server.
->>>>>>> 822cafef653b308e8b71c0609d01d10ce6f2c47a
 
 # 4. Learning/Training
 
