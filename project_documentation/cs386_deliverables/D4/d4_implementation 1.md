@@ -20,7 +20,11 @@ Trello: https://trello.com/dndcharactercreator
       Estimated Hours: 1.5
 
 # 3. Adopted Technologies
+**Hostwinds:**
+Hostwinds
 
+**WinSCP/FileZilla:**
+WinSCP, FileZilla, and others
 
 # 4. Learning/Training
 
