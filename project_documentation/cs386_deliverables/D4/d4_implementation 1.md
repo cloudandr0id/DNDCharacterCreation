@@ -21,6 +21,17 @@ Trello: https://trello.com/dndcharactercreator
       Priority: Medium
       
       Estimated Hours: 1.5
+      
+      Team Members: Richard, Grace, Ari
+      
+  2. As a D&D Player, I want the software product to have the character sheet, the character 
+     creation process, and the character leveling process to be as simple and direct as possible.
+     
+     Priority: High
+
+     Estimated Implementation Time: 8 hours
+     
+     Team Members: Skyler, Jonathan, Ari, Hannah
 
 # 3. Adopted Technologies
 **Hostwinds:**
