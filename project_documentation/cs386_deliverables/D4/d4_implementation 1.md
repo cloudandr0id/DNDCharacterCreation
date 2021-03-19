@@ -51,9 +51,13 @@ the finished sheet is arranged in a layout similar to that of a real one. Additi
 we use natural colors to evoke a medieval aesthetic. Our goal is for players to be taken out
 of the roleplaying experience as little as possible while using our site.
 
-![Screenshot #1]()
+![Screenshot #1](https://raw.githubusercontent.com/cloudandr0id/DNDCharacterCreation/main/project_documentation/cs386_deliverables/D4/Account%20page.JPG)
 
-![Screenshot #2]()
+![Screenshot #2](https://raw.githubusercontent.com/cloudandr0id/DNDCharacterCreation/main/project_documentation/cs386_deliverables/D4/character%20creator%20page.JPG)
+
+![Screenshot #3](https://raw.githubusercontent.com/cloudandr0id/DNDCharacterCreation/main/project_documentation/cs386_deliverables/D4/character%20page.JPG)
+
+![Screenshot #4](https://raw.githubusercontent.com/cloudandr0id/DNDCharacterCreation/main/project_documentation/cs386_deliverables/D4/login%20page.JPG)
 
 # 9. Lessons Learned
 The exploration of tools and methods of hosting took a lot more time and energy than expected.
