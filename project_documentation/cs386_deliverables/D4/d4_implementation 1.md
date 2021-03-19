@@ -35,13 +35,24 @@ Trello: https://trello.com/dndcharactercreator
 
 # 3. Adopted Technologies
 **Hostwinds:**
-Hostwinds, we used this to host our website because some team members have used this service before.
+Hostwinds is a service that allows customers to host their own websites. We used this to host our website because some team members have used this service before in a previous class.
 
 **WinSCP/FileZilla:**
 WinSCP and FileZilla are both file transfer protocols that are used to deposit and
 update the website's files. Both FTP tools are simple to use, offering an intuitive
 user interface. Each member is allowed to use either WinSCP or FileZilla, since
 they both offer the same services and connection to the website.
+
+**HTML and CSS:**
+Two vital languages in order to have a nice formated website. HTML can be used to 
+create the basic website layout while CSS makes the website looks visually appealing.
+We needed to use these languages in order to get a user interface for our website.
+
+**PHP:**
+PHP is a general scripting language that is best used for web development. We choose to use this because it'll allow us to make our website more dynamic.
+
+**SQL:**
+SQL is a language that is used for managing data held in a database system. Our team choose to use this because it is the best language to use for managing data in a database system.
 
 # 4. Learning/Training
 
