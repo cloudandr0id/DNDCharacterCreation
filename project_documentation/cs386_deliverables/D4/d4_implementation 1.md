@@ -7,6 +7,7 @@ an easily accessible database of character races, classes, and other necessary d
 The DND Character Constructor 
 
 GitHub Repository: https://github.com/cloudandr0id/DNDCharacterCreation
+
 Trello: https://trello.com/dndcharactercreator
 
 # 2. Implemented Requirements
