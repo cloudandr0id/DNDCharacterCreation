@@ -16,15 +16,20 @@ Trello: https://trello.com/dndcharactercreator
 # 2. Implemented Requirements
   1. "As a D&D Player I want to create an account so that I can store all my
       characters I create into a safe place so that I do not lose them in a pile of papers."
+
       Priority: Medium
+      
       Estimated Hours: 1.5
 
 # 3. Adopted Technologies
 **Hostwinds:**
-Hostwinds
+
 
 **WinSCP/FileZilla:**
-WinSCP, FileZilla, and others
+WinSCP and FileZilla are both file transfer protocols that are used to deposit and
+update the website's files. Both FTP tools are simple to use, offering an intuitive
+user interface. Each member is allowed to use either WinSCP or FileZilla, since
+they both offer the same services and connection to the website.
 
 # 4. Learning/Training
 
