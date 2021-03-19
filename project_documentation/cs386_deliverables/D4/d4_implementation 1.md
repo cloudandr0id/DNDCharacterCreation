@@ -11,6 +11,7 @@ contain more logic to better build DND characters. Already, the alpha site has t
 and simplicity that users desire.
 
 GitHub Repository: https://github.com/cloudandr0id/DNDCharacterCreation
+
 Trello: https://trello.com/dndcharactercreator
 
 # 2. Implemented Requirements
@@ -23,6 +24,7 @@ Trello: https://trello.com/dndcharactercreator
 
 # 3. Adopted Technologies
 **Hostwinds:**
+<<<<<<< HEAD
 
 
 **WinSCP/FileZilla:**
@@ -30,6 +32,12 @@ WinSCP and FileZilla are both file transfer protocols that are used to deposit a
 update the website's files. Both FTP tools are simple to use, offering an intuitive
 user interface. Each member is allowed to use either WinSCP or FileZilla, since
 they both offer the same services and connection to the website.
+=======
+Hostwinds. Some members on the team have used this before to host a website.
+
+**WinSCP/FileZilla:**
+WinSCP, FileZilla, and others. This is the best software to transfer files to the server.
+>>>>>>> 822cafef653b308e8b71c0609d01d10ce6f2c47a
 
 # 4. Learning/Training
 
@@ -46,8 +54,11 @@ our program is accessible to anyone.
 
 # 7. Readme File
 [CODE_OF_CONDUCT](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/CODE_OF_CONDUCT.md)
+
 [CONTRIBUTING]()
+
 [LICENSE](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/LICENSE.md)
+
 [README](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/README.md)
 
 # 8. Look & Feel
@@ -56,13 +67,13 @@ the finished sheet is arranged in a layout similar to that of a real one. Additi
 we use natural colors to evoke a medieval aesthetic. Our goal is for players to be taken out
 of the roleplaying experience as little as possible while using our site.
 
-![Screenshot #1](https://raw.githubusercontent.com/cloudandr0id/DNDCharacterCreation/main/project_documentation/cs386_deliverables/D4/Account%20page.JPG)
+![Screenshot #1](https://raw.githubusercontent.com/cloudandr0id/DNDCharacterCreation/main/project_documentation/cs386_deliverables/D4/login%20page.JPG)
 
-![Screenshot #2](https://raw.githubusercontent.com/cloudandr0id/DNDCharacterCreation/main/project_documentation/cs386_deliverables/D4/character%20creator%20page.JPG)
+![Screenshot #2](https://raw.githubusercontent.com/cloudandr0id/DNDCharacterCreation/main/project_documentation/cs386_deliverables/D4/Account%20page.JPG)
 
-![Screenshot #3](https://raw.githubusercontent.com/cloudandr0id/DNDCharacterCreation/main/project_documentation/cs386_deliverables/D4/character%20page.JPG)
+![Screenshot #3](https://raw.githubusercontent.com/cloudandr0id/DNDCharacterCreation/main/project_documentation/cs386_deliverables/D4/character%20creator%20page.JPG)
 
-![Screenshot #4](https://raw.githubusercontent.com/cloudandr0id/DNDCharacterCreation/main/project_documentation/cs386_deliverables/D4/login%20page.JPG)
+![Screenshot #4](https://raw.githubusercontent.com/cloudandr0id/DNDCharacterCreation/main/project_documentation/cs386_deliverables/D4/character%20page.JPG)
 
 # 9. Lessons Learned
 The exploration of tools and methods of hosting took a lot more time and energy than expected.
