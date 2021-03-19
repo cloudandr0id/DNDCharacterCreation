@@ -26,17 +26,11 @@ Trello: https://trello.com/dndcharactercreator
 **Hostwinds:**
 Hostwinds, we used this to host our website because some team members have used this service before.
 
-
 **WinSCP/FileZilla:**
 WinSCP and FileZilla are both file transfer protocols that are used to deposit and
 update the website's files. Both FTP tools are simple to use, offering an intuitive
 user interface. Each member is allowed to use either WinSCP or FileZilla, since
 they both offer the same services and connection to the website.
-=======
-Hostwinds. Some members on the team have used this before to host a website.
-
-**WinSCP/FileZilla:**
-WinSCP, FileZilla, and others. This is the best software to transfer files to the server.
 
 # 4. Learning/Training
 
