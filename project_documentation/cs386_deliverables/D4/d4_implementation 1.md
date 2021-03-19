@@ -11,6 +11,7 @@ contain more logic to better build DND characters. Already, the alpha site has t
 and simplicity that users desire.
 
 GitHub Repository: https://github.com/cloudandr0id/DNDCharacterCreation
+
 Trello: https://trello.com/dndcharactercreator
 
 # 2. Implemented Requirements
