@@ -60,7 +60,7 @@ Our team needed to relearn most of the languages we used in our website. We did 
 Overall, certain teammates researched languages and taught others when needed. Basic guides were used as well to ensure correct syntax.
 
 # 5. Deployment
-We are using Hostwind to host the website and WinSCP to upload files to the website. Hostwinds is used to host the server, and WinSCP/FileZilla are used to 
+Hostwinds is used to host the server, and WinSCP/FileZilla are used to 
 transfer files. Our database uses SQL, while PHP is used to connect the database to the web pages.
 
 # 6. Licensing
