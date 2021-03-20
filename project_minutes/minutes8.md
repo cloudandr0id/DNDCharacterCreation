@@ -3,7 +3,7 @@ Meeting Date: 3/20/2021
 Location: Discord Virtual Meeting
 Facilitator: Ari. J
 Minute Taker: Jon Nation  
-Duration: 40 mins 
+Duration: 40 mins
 
 Present: Jon Nation, Skyler Hanson, Ari Jaramillo, Hannah Trenary
 Absent: Grace Hsieh, Richard McCormick  
