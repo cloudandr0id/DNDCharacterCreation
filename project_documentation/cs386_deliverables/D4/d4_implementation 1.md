@@ -60,7 +60,7 @@ Our team needed to relearn most of the languages we used in our website. We did 
 Overall, certain teammates researched languages and taught others when needed. Basic guides were used as well to ensure correct syntax.
 
 # 5. Deployment
-The product is being hosted [here](http://hwsrv-766227.hostwindsdns.com).
+We are using Hostwind to host the website and WinSCP to upload files to the website. The product is being hosted [here](http://hwsrv-766227.hostwindsdns.com).
 
 # 6. Licensing
 [MIT License](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/LICENSE.md)
