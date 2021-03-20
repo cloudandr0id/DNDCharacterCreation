@@ -5,7 +5,7 @@ Facilitator: Ari. J
 Minute Taker: Jon Nation  
 Duration: 40 mins  
 
-Present: Jon Nation, Skyler Hanson, Ari Jaramillo, Hannah Trenary 
+Present: Jon Nation, Skyler Hanson, Ari Jaramillo, Hannah Trenary  
 Absent: Grace Hsieh, Richard McCormick   
 
 
@@ -47,14 +47,14 @@ Part 6: One person can get this done.
 Who is working on what?
 
 Part 1: Hannah (Done by Mon)  
-Part 2 & 3: Grace and Richard (Done by Wed/Thurs)
-Part 4: Ari & Hannah (Done by Fri/Sat. Needs 2 & 3 to work on this)
-Part 5: Sky & Jon (Can ask “Backend” about the code part) (Done by Fri/Sat. Needs 2 & 3 to work on this)  
-Part 6: Ari (Done by Fri/Sat. Probably needs 2 & 3 to work on this)
+Part 2 & 3: Grace and Richard (Done by Wed/Thurs)  
+Part 4: Ari & Hannah (Done by Fri/Sat. Needs 2 & 3 to work on this)  
+Part 5: Sky & Jon (Can ask “Backend” about the code part) (Done by Fri/Sat. Needs 2 & 3 to work on this)   
+Part 6: Ari (Done by Fri/Sat. Probably needs 2 & 3 to work on this)  
 
 
 Website - 1:35PM  
 
-Changing most of the website into PHP. Ari has some time this weekend to help fix this.
-If PHP works we could get rid of the JS since PHP has an easier way to grab data  
-If people have time to work on the website then
+Changing most of the website into PHP. Ari has some time this weekend to help fix this.  
+If PHP works we could get rid of the JS since PHP has an easier way to grab data.  
+If people have time to work on the website then.  
