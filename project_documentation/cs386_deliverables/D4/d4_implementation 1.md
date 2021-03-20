@@ -55,7 +55,9 @@ PHP is a general scripting language that is best used for web development. We ch
 SQL is a language that is used for managing data held in a database system. Our team choose to use this because it is the best language to use for managing data in a database system.
 
 # 4. Learning/Training
+Our team needed to relearn most of the languages we used in our website. We did this by using Codecademy, tutorials online, and general articles about the languages. Teammates that needed help with a certain language recieved assistance from other teammates who has a solid grasp.
 
+Overall, certain teammates researched languages and taught others when needed. Basic guides were used as well to ensure correct syntax.
 
 # 5. Deployment
 The product is being hosted [here](http://hwsrv-766227.hostwindsdns.com).
