@@ -33,4 +33,9 @@ public class Class
      {
        return classTrait;
      }
+
+  public boolean checkLevel()
+    {
+      return true;
+    }
 }
