@@ -1,5 +1,6 @@
-public class Class{
-   private int classID;   
+public class Class
+{
+   private int classID;
    private String className;
    private int classTrait;
 
@@ -32,3 +33,4 @@ public class Class{
      {
        return classTrait;
      }
+}
