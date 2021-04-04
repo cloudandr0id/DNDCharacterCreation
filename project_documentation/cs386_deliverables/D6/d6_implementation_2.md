@@ -6,3 +6,12 @@ GitHub Repository: https://github.com/cloudandr0id/DNDCharacterCreation
 Trello: https://trello.com/dndcharactercreator
 
 # 2. Implemented Requirements
+
+
+# 3. Demo
+
+
+# 4. Code Quality
+
+
+# 5. Lessons Learned
