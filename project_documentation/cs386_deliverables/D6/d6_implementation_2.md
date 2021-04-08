@@ -12,6 +12,12 @@ Trello: https://trello.com/dndcharactercreator
 
 
 # 4. Code Quality
-
+Code quality was implemented primarily in the form of general guidelines for readability
+and human understanding. For instance, the brackets used for defining classes/functions/loops
+had to own their own lines. Otherwise, differentiating between each body of code would be
+more difficult. Another example is the banning of one-letter or undescriptive variables,
+as well as having these variables in camel case. All of these guidelines are written onto
+a devoted text channel on the team Discord server, managed and enforced by the quality
+assurance team member.
 
 # 5. Lessons Learned
