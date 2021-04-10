@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link rel = "stylesheet" href = "/.css/dndstyle.css">
+    <title>Character Creator</title>
+    <nav>
+      <img id="logoimage" alt="DND CC Logo" src="/.buttons/logo.png">
+
+      <a href="/">
+        <img id="headerButton" alt="Home" src="/.buttons/HomeButton.png">
+      </a>
+
+      <a	href="/characters/">
+        <img id="headerButton" alt="Characters" src="/.buttons/CharButton.png">
+      </a>
+
+      <a href="/guide/">
+        <img id="headerButton" alt="Guide" src="/.buttons/GuideButton.png">
+      </a>
+
+      <a href= "/contact/">
+        <img id="headerButton" alt="About/Contact" src="/.buttons/ContButton.png">
+      </a>
+
+      <a href="https://github.com/cloudandr0id/DNDCharacterCreation" target="_blank">
+        <img id="headerButton" alt="Github" src="/.buttons/GHButton.png">
+      </a>
+
+      <a href="/account/">
+        <img id="headerButton" alt="Account" src="/.buttons/AccButton.png">
+      </a>
+
+      <a href = "/login/">
+        <img id="headerButton" alt="Login" src="/.buttons/LogButton.png">
+      </a>
+      <hr>
+    </nav>
+  </head>
+
+  <script type='text/javascript' language='Javascript'>
+  function webpage()
+  {
+    var name = document.getElementById('Name').value;
+
+    document.write("<html>");
+    document.write("<head> <title>" + name + "</title> </head>");
+    document.write("<body bgcolor= \"white\">");
+
+    var str = document.getElementById('Strength').value;
+    var dex = document.getElementById('Dexterity').value;
+    var con = document.getElementById('Constitution').value;
+    var wis = document.getElementById('Wisdom').value;
+    var intel = document.getElementById('Intelligence').value;
+    var cha = document.getElementById('Charisma').value;
+
+    document.write("<p>STR: ") + str;
+    document.write("</p><p>DEX: " + dex);
+    document.write("</p><p>CON: " + con);
+    document.write("</p><p>WIS: " + wis);
+    document.write("</p><p>INT: " + intel);
+    document.write("</p><p>CHA: " + cha);
+
+    document.write("</body> </html>");
+  }
+  </script>
+
+  <body>
+    <form>
+        <p>Edit character:</p>
+      <label for="Level">Level: </label>
+      <input type="text" id="stat" name="Level"><br>
+
+      <a href="/characterSheet/">
+        <input type="submit" value="Submit" id="button">
+      </a>
+
+      <br>
+    </form>
+  </body>
+</html>
