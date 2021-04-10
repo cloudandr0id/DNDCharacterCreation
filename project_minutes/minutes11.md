@@ -14,8 +14,10 @@ End time:  3:20pm MST
 Deliverable Talks - 2:44  
 Implemented Requirements  
 Finish By tonight  
+
 Lessons Learned  
 Richard MIA  
+
 Demo  
 Ari has it  
 
@@ -32,9 +34,11 @@ Everyone has just been pushing straight to main
 D7 - 3:04  
 Intro  
 Almost copy Paste  
+
 Unit Test  
 At least 2 ppl rsrch verification - due tues.  
 Hannah Ari?  
+
 Validation, 3 Users not us  
 Writing Script  
 Jon  
