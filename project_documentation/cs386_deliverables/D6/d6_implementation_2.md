@@ -20,6 +20,7 @@ Skyler has reviewed and pushed the feature into the main
 
 # 3. Demo
 
+[Demo of the website](https://www.youtube.com/watch?v=WHsI0Oa4Eik).
 
 # 4. Code Quality
 Code quality was implemented primarily in the form of general guidelines for readability
