@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+<<!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <link rel = "stylesheet" href = "/.css/dndstyle.css">
-    <title>Character Creator</title>
+    <title>Character Sheet</title>
     <nav>
       <img id="logoimage" alt="DND CC Logo" src="/.buttons/logo.png">
 
@@ -12,10 +12,6 @@
 
       <a	href="/characters/">
         <img id="headerButton" alt="Characters" src="/.buttons/CharButton.png">
-      </a>
-
-      <a href="/guide/">
-        <img id="headerButton" alt="Guide" src="/.buttons/GuideButton.png">
       </a>
 
       <a href= "/contact/">
@@ -36,64 +32,34 @@
       <hr>
     </nav>
   </head>
-
   <body>
-    <form>
-      <label for="Name">Name: </label>
-      <input type="text" id="Name" name="Name"><br>
-
-      <label for="Race">Race: </label>
-      <select name="Race" id="dropdown">
-        <option value="Human">Human</option>
-        <option value="Elf">Elf</option>
-        <option value="Half-elf">Half-elf</option>
-        <option value="Halfling">Halfling</option>
-        <option value="Dwarf">Dwarf</option>
-        <option value="Tiefling">Tiefling</option>
-        <option value="Half-orc">Half-orc</option>
-      </select><br>
-
-      <label for="Class">Class: </label>
-      <select name="Class" id="dropdown">
-        <option value="Barbarian">Barbarian</option>
-        <option value="Bard">Bard</option>
-        <option value="Cleric">Cleric</option>
-        <option value="Druid">Druid</option>
-        <option value="Fighter">Fighter</option>
-        <option value="Monk">Monk</option>
-        <option value="Ranger">Ranger</option>
-        <option value="Rogue">Rogue</option>
-        <option value="Sorcerer">Sorcerer</option>
-        <option value="Warlock">Warlock</option>
-        <option value="Wizard">Wizard</option>
-      </select>
-
-      <label for="Level">Level: </label>
-      <input type="text" id="stat" name="Level"><br>
-
-      <label for="Strength">Strength: </label>
-      <input type="text" id="stat" name="Strength"><br>
-
-      <label for="Dexterity">Dexterity: </label>
-      <input type="text" id="stat" name="Dexterity"><br>
-
-      <label for="Constitution">Constitution: </label>
-      <input type="text" id="stat" name="Constitution"><br>
-
-      <label for="Wisdom">Wisdom: </label>
-      <input type="text" id="stat" name="Wisdom"><br>
-
-      <label for="Intelligence">Intelligence: </label>
-      <input type="text" id="stat" name="Intelligence"><br>
-
-      <label for="Charisma">Charisma: </label>
-      <input type="text" id="stat" name="Charisma"><br>
-
-      <label for="HP">HP: </label>
-      <input type="text" id="stat" name="HP"><br>
-      <button id="submit">Create</button>
-
+    <form id="charSheet">
+      <div id="nameBox">
+        <img id="scrollImg" src="/.buttons/NameScroll.png">
+        <label id="nameText" for="Name">Name: Azael</label>
+        <br>
+      </div>
+        <label id="raceText" for="Race">Race: Human</label>
       <br>
+        <label id="classText" for="Class">Class: Fighter</label>
+      <br>
+        <label id="levelText" for="Level">Level: 1</label>
+      <br>
+        <label id="strText" for="Strength">Strength: 10</label>
+      <br>
+        <label id="dexText" for="Dexterity">Dexterity: 10</label>
+      <br>
+        <label id="conText" for="Constitution">Constitution:10</label>
+      <br>
+        <label id="wisText" for="Wisdom">Wisdom: 10</label>
+      <br>
+        <label id="intText" for="Intelligence">Intelligence: 10</label>
+      <br>
+        <label id="charText" for="Charisma">Charisma: 10</label>
+      <br>
+        <label "hpText" for="HP">HP: 10</label>
+        <br>
     </form>
+
   </body>
 </html>
