@@ -37,33 +37,6 @@
     </nav>
   </head>
 
-  <script type='text/javascript' language='Javascript'>
-  function webpage()
-  {
-    var name = document.getElementById('Name').value;
-
-    document.write("<html>");
-    document.write("<head> <title>" + name + "</title> </head>");
-    document.write("<body bgcolor= \"white\">");
-
-    var str = document.getElementById('Strength').value;
-    var dex = document.getElementById('Dexterity').value;
-    var con = document.getElementById('Constitution').value;
-    var wis = document.getElementById('Wisdom').value;
-    var intel = document.getElementById('Intelligence').value;
-    var cha = document.getElementById('Charisma').value;
-
-    document.write("<p>STR: ") + str;
-    document.write("</p><p>DEX: " + dex);
-    document.write("</p><p>CON: " + con);
-    document.write("</p><p>WIS: " + wis);
-    document.write("</p><p>INT: " + intel);
-    document.write("</p><p>CHA: " + cha);
-
-    document.write("</body> </html>");
-  }
-  </script>
-
   <body>
     <form>
       <label for="Name">Name: </label>
@@ -118,9 +91,7 @@
 
       <label for="HP">HP: </label>
       <input type="text" id="stat" name="HP"><br>
-      <a href="/characterSheet/">
-        <input type="submit" value="Create" id="createButton" scr = "/.buttons/CreateButton.png">
-      </a>
+      <button id="submit">Create</button>
 
       <br>
     </form>
