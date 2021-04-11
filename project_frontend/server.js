@@ -48,6 +48,9 @@ server.post('/characterCreator/characterForm', (req, res) =>{
               <a	href="/characters/">
                 <img id="headerButton" alt="Characters" src="/.buttons/CharButton.png">
               </a>
+              <a href="/guide/">
+                <img id="headerButton" alt="Guide" src="/.buttons/GuideButton.png">
+              </a>
               <a href= "/contact/">
                 <img id="headerButton" alt="About/Contact" src="/.buttons/ContButton.png">
               </a>
@@ -66,16 +69,16 @@ server.post('/characterCreator/characterForm', (req, res) =>{
           <body>
             <form id="charSheet">
               <div id="nameBox">
-                <p>Name: NAME_HERE</p>
-                <p>Race: RACE_HERE</p>
-                <p>Level: LEVEL_HERE</p>
-                <p>Strength: STR_STAT</p>
-                <p>Dexterity: DEX_STAT</p>
-                <p>Constitution: CON_STAT</p>
-                <p>Wisdom: WIS_STAT</p>
-                <p>Intelligence: INT_STAT</p>
-                <p>Charisma: CHAR_STAT</p>
-                <p>HP: HP_STAT</p>
+                <p>Name: ${req.body.Name}</p>
+                <p>Race: ${req.body.Race}</p>
+                <p>Level: ${req.body.Level}</p>
+                <p>Strength: ${req.body.Strength}</p>
+                <p>Dexterity: ${req.body.Dexterity}</p>
+                <p>Constitution: ${req.body.Constitution}</p>
+                <p>Wisdom: ${req.body.Wisdom}</p>
+                <p>Intelligence: ${req.body.Intelligence}</p>
+                <p>Charisma: ${req.body.Charisma}</p>
+                <p>HP: ${req.body.HP}</p>
               </div>
              </form>
           </body>
