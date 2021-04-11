@@ -31,3 +31,6 @@ a devoted text channel on the team Discord server, managed and enforced by the q
 assurance team member.
 
 # 5. Lessons Learned
+During the second release, our team learned a lot of things. To start, one of the biggest takeaways from this iteration of the project is the importance of proper organization and planning. While we were able to complete the project, it is our belief that it would have been completed much more efficiently and effectively had we been more focused on planning in the early stages of the project, instead of slowly ramping up over the course of weeks as we did. Furthermore, the organizational structure of our team was always in a state of flux, which hindered our ability to act cohesively and decisively.
+
+Another key lesson which was learned in this process is the importance of understanding key technologies. Our group was delayed several weeks due to the time spent deciding on and implementing specific technologies and infrastructure which was necessary to complete the project. If this project were to be done again, our group would have been much more vigilant on selecting and implementing the most important technologies first, as well as testing and ensuring that quality standards were met to the highest possible degree.
