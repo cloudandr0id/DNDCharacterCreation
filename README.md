@@ -5,6 +5,8 @@ The DND Character Constructor is an online utility for the game Dungeons and Dra
 Please view our project [here](http://http://hwsrv-766227.hostwindsdns.com/).
 
 ## Built With
+  - HTML/CSS
+  - Java
 
 ## Contributing
 
