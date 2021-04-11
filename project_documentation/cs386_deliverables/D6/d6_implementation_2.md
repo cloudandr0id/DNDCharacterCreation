@@ -8,12 +8,12 @@ Trello: https://trello.com/dndcharactercreator
 # 2. Implemented Requirements
 
 1. We implemented a guide for new and old D&D Players to look at when creating a character. This allows players to view all kinds of races, classes, and equipment that they can use.  
-Trello:   
-Hannah and Ari started the implementation of this guide and finished it together.  https://trello.com/c/GL3UvSm6/18-guide-with-info-about-various-things
+Trello:   https://trello.com/c/GL3UvSm6/18-guide-with-info-about-various-things  
+Hannah and Ari started the implementation of this guide and finished it together.  
 Hannah reviewed and pushed the guide into the main  
 
-2. The team also implemented a way to update the level of a character and edit the character that the player has created.  https://trello.com/c/t5KDRg1R/21-interface-to-edit-existing-character
-Trello:  
+2. The team also implemented a way to update the level of a character and edit the character that the player has created.  
+Trello:  https://trello.com/c/t5KDRg1R/21-interface-to-edit-existing-character  
 Skyler has implemented this updating feature of the character creator.  
 Skyler has reviewed and pushed the feature into the main  
 
