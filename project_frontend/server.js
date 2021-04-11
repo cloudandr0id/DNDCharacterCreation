@@ -86,3 +86,66 @@ server.post('/characterCreator/characterForm', (req, res) =>{
         `)
     console.log('Form complete')
 })
+
+server.post('/login/loginForm', (req, res) =>{
+    res.send(`
+        <!DOCTYPE html>
+        <html lang="en" dir="ltr">
+          <head>
+            <link rel = "stylesheet" href = "/.css/dndstyle.css">
+            <title>Profile</title>
+            <nav>
+              <img id="logoimage" alt="DND CC Logo" src="/.buttons/logo.png">
+
+              <a href="/">
+                <img id="headerButton" alt="Home" src="/.buttons/HomeButton.png">
+              </a>
+
+              <a	href="/characters/">
+                <img id="headerButton" alt="Characters" src="/.buttons/CharButton.png">
+              </a>
+
+              <a href="/guide/">
+                <img id="headerButton" alt="Guide" src="/.buttons/GuideButton.png">
+              </a>
+
+              <a href= "/contact/">
+                <img id="headerButton" alt="About/Contact" src="/.buttons/ContButton.png">
+              </a>
+
+              <a href="https://github.com/cloudandr0id/DNDCharacterCreation" target="_blank">
+                <img id="headerButton" alt="Github" src="/.buttons/GHButton.png">
+              </a>
+
+              <a href="/account/">
+                <img id="headerButton" alt="Account" src="/.buttons/AccButton.png">
+              </a>
+
+              <a href = "/login/">
+                <img id="headerButton" alt="Login" src="/.buttons/LogButton.png">
+              </a>
+              <hr>
+            </nav>
+          </head>
+          <body>
+
+            <h2>Welcome ${req.body.Email}!</h2>
+            <h3>Account information:</h3>
+            <p>Current email: ${req.body.Email}</p>
+            <p>Current password: ${req.body.Password}</p>
+
+            <hr>
+            <h3>Change account information:</h3>
+            <label for="newEmail">New email: </label>
+            <input type="text" id="email" name="newEmail"><br>
+            <input type="submit" value="change email" id="changePassword"><br>
+
+            <label for="newPassword">New password: </label>
+            <input type="text" id="password" name="newPassword"><br>
+            <input type="submit" value="change password" id="changePassword"><br>
+
+          </body>
+        </html>
+        `)
+    console.log('Form complete')
+})
