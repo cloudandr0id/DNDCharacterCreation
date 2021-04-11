@@ -29,7 +29,11 @@ if (process.argv[2] === 'local') {
 
 server.listen(port, () => console.log('Ready on localhost!'))
 
-server.post('/characterCreator/index.html', (req, res) =>{
+server.get('/characterCreator/characterform', (req, res) =>{
+  res.redirect ('/characterCreator')
+})
+
+server.post('/characterCreator/characterForm', (req, res) =>{
     res.send(`
         <!DOCTYPE html>
         <html lang="en" dir="ltr">
@@ -38,27 +42,21 @@ server.post('/characterCreator/index.html', (req, res) =>{
             <title>Character Sheet</title>
             <nav>
               <img id="logoimage" alt="DND CC Logo" src="/.buttons/logo.png">
-
               <a href="/">
                 <img id="headerButton" alt="Home" src="/.buttons/HomeButton.png">
               </a>
-
               <a	href="/characters/">
                 <img id="headerButton" alt="Characters" src="/.buttons/CharButton.png">
               </a>
-
               <a href= "/contact/">
                 <img id="headerButton" alt="About/Contact" src="/.buttons/ContButton.png">
               </a>
-
               <a href="https://github.com/cloudandr0id/DNDCharacterCreation" target="_blank">
                 <img id="headerButton" alt="Github" src="/.buttons/GHButton.png">
               </a>
-
               <a href="/account/">
                 <img id="headerButton" alt="Account" src="/.buttons/AccButton.png">
               </a>
-
               <a href = "/login/">
                 <img id="headerButton" alt="Login" src="/.buttons/LogButton.png">
               </a>
@@ -68,7 +66,6 @@ server.post('/characterCreator/index.html', (req, res) =>{
           <body>
             <form id="charSheet">
               <div id="nameBox">
-                <img id="scrollImg" src="/.buttons/NameScroll.png">
                 <p>Name: NAME_HERE</p>
                 <p>Race: RACE_HERE</p>
                 <p>Level: LEVEL_HERE</p>
