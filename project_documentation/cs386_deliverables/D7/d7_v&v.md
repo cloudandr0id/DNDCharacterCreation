@@ -3,7 +3,22 @@ The DND Character Constructor is an online utility for the game Dungeons and Dra
 
 # 2. Verification
 ## 2.1. Unit test
+  ### 2.1.1
+  ### 2.1.2
+  ### 2.1.3
+  ### 2.1.4
 ## 2.2. Integration test
+  ### 2.1.1
+  ### 2.1.2
+  ### 2.1.3
+  ### 2.1.4
 ## 2.3. Acceptance
+  ### 2.1.1
+  ### 2.1.2
+  ### 2.1.3
+  ### 2.1.4
 
-# 3. Validation  
+# 3. Validation 
+  ## Script:
+  ## Results:
+  ## Reflections:
