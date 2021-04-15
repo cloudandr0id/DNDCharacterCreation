@@ -18,7 +18,26 @@ The DND Character Constructor is an online utility for the game Dungeons and Dra
   ### 2.1.3
   ### 2.1.4
 
-# 3. Validation 
-  ## Script:
+# 3. Validation
+  ## Script:  
+  Task to give:  
+    Answer any questions that might pertain to the website  
+    Check other pages to make sure its all up  
+    Check if there is any typos or grammatical errors in the pages of the website  
+    Test make different characters  
+    Give feedback on to the developers (if any)  
+
+  Data to be collected:  
+    Answers to questions about the website/character creator  
+    Feedback from the user evaluation (If any)  
+    Results of the character creation  
+
+  Questions to be asked:  
+    How do you feel about the interface of the website?  
+    If there was anything that you wanted the developers to add/improve on this website, what would you like to add/improve on?  
+    From your perspective, can you go over the part of the website that you liked the most and why?  
+    If the website was completed with new features that you may or may not have mentioned, would you recommend this website to your friends?  
+    Was this website easy to use and provided all the information you needed to making characters?  
+
   ## Results:
   ## Reflections:
