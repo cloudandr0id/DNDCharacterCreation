@@ -7,18 +7,35 @@ public class ClassTraits extends Class
    private String title;
    private String desc;
 
+   public ClassTraits()
+   {
+     classTrait = 0;
+     requriedLevel = null;
+     tilte = "";
+     desc = "";
+   }
+
+   public ClassTraits(ClassTraits classTrait, int[] requriedLevel, String title, String desc)
+   {
+     this.classTrait = classTrait;
+     this.requriedLevel = requriedLevel;
+     this.tilte = title;
+     this.desc = desc;
+   }
+
+
   ClassTraits classTrait(int level, String title, String desc)
      {
        classTrait[0] = level;
        classTrait[1] = title;
        classTrait[2] = desc;
      }
-  public int setTrait(int trait)
+  public int setClassTrait(int trait)
      {
        classtrait = trait;
      }
 
-   public int getTrait()
+   public int getClassTrait()
      {
        return classTrait;
      }
