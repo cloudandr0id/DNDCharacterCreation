@@ -4,7 +4,7 @@ The DND Character Constructor is an online utility for the game Dungeons and Dra
 # 2. Verification
 ## 2.1. Unit test
   ### 2.1.1
-    We used JUnit for all our unit tests.
+    We used JUnit for all our unit tests and the mock unit test used Mockito as well.
     
   ### 2.1.2
   [Link to the unit tests](https://github.com/cloudandr0id/DNDCharacterCreation/tree/main/project_backend/tests/unitTests)
