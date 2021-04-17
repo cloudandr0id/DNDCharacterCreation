@@ -6,6 +6,20 @@ public class Class
    private String className;
    private int classTrait;
 
+   public Class()
+   {
+     classID = 0;
+     className = "";
+     classTrait = 0;
+   }
+
+   public Class(int classID, String className, int classTrait)
+   {
+     this.classID = classID;
+     this.className = className;
+     this.classTrait = classTrait;
+   }
+
    public int getClassID()
      {
        return classID;
@@ -26,12 +40,12 @@ public class Class
        return className;
      }
 
-   public int setTrait(int trait)
+   public int setClassTrait(int trait)
      {
        classtrait = trait;
      }
 
-   public int getTrait()
+   public int getClassTrait()
      {
        return classTrait;
      }
