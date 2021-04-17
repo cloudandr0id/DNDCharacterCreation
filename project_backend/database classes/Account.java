@@ -20,7 +20,7 @@ public class Account{
 
 	public string getEmail()
 	{
-		return email;
+		return this.email;
 	}
 
 	public void setEmail(String userEmail)
@@ -30,7 +30,7 @@ public class Account{
 
 	public string getPassword()
 	{
-		return password;
+		return this.password;
 	}
 
 	public void setPassword(String userPassword)
