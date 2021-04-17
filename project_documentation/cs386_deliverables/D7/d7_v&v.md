@@ -11,7 +11,9 @@ The DND Character Constructor is an online utility for the game Dungeons and Dra
   
   ### 2.1.3
   We created a mock object to test the functionality of the Account class.
+  
   [Class being tested](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_backend/database%20classes/Account.java)
+  
   [Test](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_backend/tests/unitTests/AccountMockTest.java)
   
   ### 2.1.4
