@@ -1,31 +1,42 @@
 package database_classes;
 
 public class Character{
-	public String charName;
-	public Race charRace;
-	public SubRace charSubRace;
-	public AbilityScore charAbilityScore;
-	public Class charClass
-	public Subclass charSubclass
-	public Background charBG;
-	public Level charLevel;
+	public String name;
+	public Race race;
+	public SubRace subRace;
+	public AbilityScore abilityScore;
+	public Class class
+	public Subclass subclass
+	public Background background;
+	public Level level;
 
 	// constructor
-	public Character(String charName, Race charRace, SubRace charSubRace,
-	AbilityScore charAbilityScore, Class charClass, Subclass charSubclass,
-	Background charBG, Level charLevel;)
+	public Character(String name, Race race, SubRace subRace,
+	AbilityScore abilityScore, Class class, Subclass subClass,
+	Background background, Level level;)
 	{
-		this.charName = charName;
-		this.charRace = charRace;
-		this.charSubRace = charSubRace;
-		this.charAbilityScore = charAbilityScore;
-		this.charClass = charClass;
-		this.charSubclass = charSubclass;
-		this.charBG = charBG;
-		this.charLevel = charLevel;
+		this.name = name;
+		this.race = race;
+		this.subRace = subRace;
+		this.abilityScore = abilityScore;
+		this.class = class;
+		this.subClass = subClass;
+		this.background = background;
+		this.level = level;
 	}
 
 	public int calculateScore(){
-		return charAbilityScore.calculateScore()
+		return abilityScore.calculateScore()
 	}
+
+	public string getEmail()
+	{
+		return email;
+	}
+
+	public void setEmail(String userEmail)
+	{
+		this.email = userEmail;
+	}
+
 }
