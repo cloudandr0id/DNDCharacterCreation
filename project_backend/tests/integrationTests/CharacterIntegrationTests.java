@@ -6,7 +6,7 @@ import org.junit.Test;
 import org.mockito.Mock;
 import org.mockito.runners.MockitoJUnitRunner;
 
-public class CharacterUnitTests
+public class CharacterIntegrationTests
 {
     Character character = new Character(None, None, None, None, None, None,
     None, None);
