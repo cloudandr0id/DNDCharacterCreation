@@ -4,13 +4,22 @@ The DND Character Constructor is an online utility for the game Dungeons and Dra
 # 2. Verification
 ## 2.1. Unit test
   ### 2.1.1
-    [MochaJS](https://mochajs.org/)
+    We used JUnit for all our unit tests.
+    
   ### 2.1.2
+  [Link to the unit tests](https://github.com/cloudandr0id/DNDCharacterCreation/tree/main/project_backend/tests/unitTests)
+  
   ### 2.1.3
+  We created a mock object to test the functionality of the Account class.
+  [Class being tested](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_backend/database%20classes/Account.java)
+  [Test](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_backend/tests/unitTests/AccountMockTest.java)
+  
   ### 2.1.4
+  ![Mock object test passing](https://github.com/cloudandr0id/DNDCharacterCreation/blob/main/project_documentation/cs386_deliverables/D7/MockUnitTest.JPG?raw=true)
+  
 ## 2.2. Integration test
   ### 2.2.1
-    [MochaJS](https://mochajs.org/)
+    We used JUnit for all our unit tests.
   ### 2.2.2
   ### 2.2.3
   ### 2.2.4
