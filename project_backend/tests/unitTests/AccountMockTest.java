@@ -14,7 +14,7 @@ public class AccountMockTest
     @Test
     public void testAccountEmail()
     {
-        String newEmail = "newEmail@gmail.com"
+        String newEmail = "newEmail@gmail.com";
         account1.setEmail(newEmail);
         assertEquals(account1.email.getEmail(), newEmail);
     }
