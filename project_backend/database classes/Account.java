@@ -18,7 +18,7 @@ public class Account{
 		return False;
 	}
 
-	public string getEmail()
+	public String getEmail()
 	{
 		return this.email;
 	}
@@ -28,7 +28,7 @@ public class Account{
 		this.email = userEmail;
 	}
 
-	public string getPassword()
+	public String getPassword()
 	{
 		return this.password;
 	}

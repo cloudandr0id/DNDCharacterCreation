@@ -29,7 +29,7 @@ public class Character{
 		return abilityScore.calculateScore()
 	}
 
-	public string getName()
+	public String getName()
 	{
 		return this.name;
 	}
