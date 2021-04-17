@@ -1,3 +1,5 @@
+package database_classes;
+
 public class LevelDict{
 	public int[] keys;
 	public int[] values;

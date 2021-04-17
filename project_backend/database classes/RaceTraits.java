@@ -1,3 +1,5 @@
+package database_classes;
+
 public class RaceTraits extends Race
 {
    private int raceSpeed;

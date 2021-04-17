@@ -1,3 +1,5 @@
+package database_classes;
+
 public class Subrace extends Race
 {
    private int raceID;   

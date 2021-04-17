@@ -1,3 +1,5 @@
+package database_classes;
+
 public class Level{
 	public int level;
 	public int proficiency;

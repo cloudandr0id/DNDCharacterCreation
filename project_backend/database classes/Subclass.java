@@ -1,3 +1,5 @@
+package database_classes;
+
 public class Subclass extends Class
 {
    private int classID;   

@@ -1,3 +1,5 @@
+package database_classes;
+
 public class Class
 {
    private int classID;

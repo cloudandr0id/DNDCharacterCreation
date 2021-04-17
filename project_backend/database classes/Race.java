@@ -1,3 +1,5 @@
+package database_classes;
+
 public class Race
 {
    private int raceID;   

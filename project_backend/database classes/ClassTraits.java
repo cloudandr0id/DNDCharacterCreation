@@ -1,3 +1,5 @@
+package database_classes;
+
 public class ClassTraits extends Class
 {
    private ClassTraits[] classTrait;
