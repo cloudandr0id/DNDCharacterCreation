@@ -5,6 +5,18 @@ public class RaceTraits extends Race
    private int raceSpeed;
    private int raceTrait;
 
+   public RaceTraits()
+   {
+     raceSpeed = 0;
+     raceTrait = 0;
+   }
+
+   public RaceTraits(int raceSpeed, int raceTrait)
+   {
+     this.raceSpeed = raceSpeed;
+     this.raceTrait = raceTrait;
+   }
+
    public void setSpeed(int speed)
      {
        raceSpeed = speed;
@@ -15,12 +27,12 @@ public class RaceTraits extends Race
        return raceSpeed;
      }
 
-   public int setTrait(int trait)
+   public int setRaceTrait(int trait)
      {
        raceTrait = trait;
      }
 
-   public int getTrait()
+   public int getRaceTrait()
      {
        return raceTrait;
      }
