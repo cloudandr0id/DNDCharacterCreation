@@ -90,3 +90,4 @@ The DND Character Constructor is an online utility for the game Dungeons and Dra
     *"The layout is straightforward and easy to use, therefore, I would agree."*
 
   ## Reflections:
+    Despite the various issues that inhibited frontend development, we (as the team) are satisfied with the overall quality of the website. We succeeded with our goal of making our site simplistic and easy to navigate, featuring a header that allowed straightforward navigation. Had we figured out our tools and the website configurations earlier, the major change would have been a lot more built-in dynamic pages. The users seemed to have glossed over the account/login options and went straight to making a character. While immediately understanding what the form was asking, they expressed disappointment in the lack of options, especially the more experienced users. Even though our final product was relatively basic, our value proposition is fulfilled.
