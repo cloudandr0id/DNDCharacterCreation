@@ -4,6 +4,7 @@ public class Class
 {
    private int classID;
    private String className;
+   private int classTrait;
 
    public Class()
    {
@@ -38,6 +39,16 @@ public class Class
      {
        return this.className;
      }
+
+     public int getClassTrait()
+       {
+         return this.classTrait;
+       }
+
+     public void setClassTrait(int trait)
+       {
+         this.classTrait = trait;
+       }
 
   public boolean checkLevel()
     {
