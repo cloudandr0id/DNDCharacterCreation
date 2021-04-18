@@ -2,7 +2,7 @@ package classes.database_classes;
 
 public class ClassTraits extends Class
 {
-   private ClassTraits[] classTrait;
+   private int[] classTrait;
    private int[] requiredLevel = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20];
    private String title;
    private String desc;
@@ -32,7 +32,7 @@ public class ClassTraits extends Class
      }
   public void setClassTrait(ClassTraits trait)
      {
-       this.classtrait.append(trait);
+       this.classtrait = trait;
      }
 
    public int getClassTrait()
