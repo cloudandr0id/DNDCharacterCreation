@@ -102,5 +102,23 @@ The DND Character Constructor is an online utility for the game Dungeons and Dra
 
     *"The layout is straightforward and easy to use, therefore, I would agree."*
 
+  User 3 - Gabe
+  
+  - How do you feel about the interface of the website?
+
+    *"I feel that the interface could use some more detail, but what is there makes sense, and I don't feel like I need to be taught how to use it. "*
+  - If there was anything that you wanted the developers to add/improve on this website, what would you like to add/improve on?
+
+    *"It would be nice if there was a way for me to easily share the characters I have created with other people, so that I don't have to save a screenshot if I want to send a character to a friend. "*
+  - From your perspective, can you go over the part of the website that you liked the most and why?
+
+    *"I liked how easy it was to create a character, as it did not require me to first make an account or anything like that. "*
+  - If the website was completed with new features that you may or may not have mentioned, would you recommend this website to your friends?
+
+    *"I think I would recommend this, though I could see some people preferring to keep using pencil and paper to keep track of their characters. "*
+  - Was this website easy to use and provided all the information you needed to making characters?
+
+    *"Yes, I do think it was easy to use, and provided enough information without me feeling like I was being condescended to. "*
+
   ## Reflections:
    Despite the various issues that inhibited frontend development, we (as the team) are satisfied with the overall quality of the website. We succeeded with our goal of making our site simplistic and easy to navigate, featuring a header that allowed straightforward navigation. Had we figured out our tools and the website configurations earlier, the major change would have been a lot more built-in dynamic pages. The users seemed to have glossed over the account/login options and went straight to making a character. While immediately understanding what the form was asking, they expressed disappointment in the lack of options, especially the more experienced users. Even though our final product was relatively basic, our value proposition is fulfilled.
