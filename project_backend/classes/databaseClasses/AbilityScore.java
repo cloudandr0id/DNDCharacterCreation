@@ -1,4 +1,4 @@
-package classes.database_classes;
+package classes.databaseClasses;
 
 public class AbilityScore()
 {
