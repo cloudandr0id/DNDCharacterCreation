@@ -1,4 +1,4 @@
-package database_classes;
+package classes.database_classes;
 
 public class RaceTraits extends Race
 {
@@ -24,7 +24,7 @@ public class RaceTraits extends Race
 
    public void getSpeed()
      {
-       return raceSpeed;
+       return this.raceSpeed;
      }
 
    public int setRaceTrait(int trait)
@@ -34,6 +34,6 @@ public class RaceTraits extends Race
 
    public int getRaceTrait()
      {
-       return raceTrait;
+       return this.raceTrait;
      }
 }

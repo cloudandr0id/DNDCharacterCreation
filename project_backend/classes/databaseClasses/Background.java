@@ -1,4 +1,4 @@
-package tests.database_classes;
+package classes.database_classes;
 
 public class Background
 {

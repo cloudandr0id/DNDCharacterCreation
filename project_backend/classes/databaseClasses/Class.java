@@ -1,39 +1,46 @@
-package database_classes;
+package classes.database_classes;
 
-public class Subclass extends Class
+public class Class
 {
    private int classID;
    private String className;
 
-   public Subclass()
+   public Class()
    {
      classID = 0;
      className = "";
+     classTrait = 0;
    }
 
-   public Subclass(int classID, String className)
+   public Class(int classID, String className, int classTrait)
    {
      this.classID = classID;
      this.className = className;
+     this.classTrait = classTrait;
    }
 
    public int getClassID()
      {
-       return classID;
+       return this.classID;
      }
 
    public void setClassID(int id)
      {
-       classID = id;
+       this.classID = id;
      }
 
    public void setClassName(String name)
      {
-       className = name;
+       this.className = name;
      }
 
    public String getClassName()
      {
-       return className;
+       return this.className;
      }
+
+  public boolean checkLevel()
+    {
+      return true;
+    }
 }

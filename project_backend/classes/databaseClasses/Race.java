@@ -1,5 +1,4 @@
-
-package database_classes;
+package classes.database_classes;
 
 public class Race
 {
@@ -26,41 +25,41 @@ public class Race
 
    public int getRaceID()
      {
-       return raceID;
+       return this.raceID;
      }
 
    public void setRaceID(int id)
      {
-       raceID = id;
+       this.raceID = id;
      }
 
    public void setSpeed(int speed)
      {
-       raceSpeed = speed;
+       this.raceSpeed = speed;
      }
 
    public void getSpeed()
      {
-       return raceSpeed;
+       return this.raceSpeed;
      }
 
    public void setRaceName(String name)
      {
-       raceName = name;
+       this.raceName = name;
      }
 
    public String getRaceName()
      {
-       return raceName;
+       return this.raceName;
      }
 
    public int setRaceTrait(int trait)
      {
-       raceTrait = trait;
+       this.raceTrait = trait;
      }
 
    public int getRaceTrait()
      {
-       return raceTrait;
+       return this.raceTrait;
      }
 }
