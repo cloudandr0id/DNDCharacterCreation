@@ -13,7 +13,7 @@ public class Character{
 	// constructor
 	public Character(String name, Race race, SubRace subRace,
 	AbilityScore abilityScore, Class charClass, Subclass subclass,
-	Background background, Level level;)
+	Background background, Level level)
 	{
 		this.name = name;
 		this.race = race;
@@ -23,6 +23,18 @@ public class Character{
 		this.subclass = subclass;
 		this.background = background;
 		this.level = level;
+	}
+
+	public Character()
+	{
+		this.name = null;
+		this.race = null;
+		this.subRace = null;
+		this.abilityScore = null;
+		this.charClass = null;
+		this.subclass = null;
+		this.background = null;
+		this.level = 0;
 	}
 
 	public int calculateScore(){
