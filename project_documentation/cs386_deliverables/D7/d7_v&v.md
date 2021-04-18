@@ -53,4 +53,17 @@ The DND Character Constructor is an online utility for the game Dungeons and Dra
     Was this website easy to use and provided all the information you needed to making characters?  
 
   ## Results:
+  User 1 - Ryan
+  
+  - How do you feel about the interface of the website?
+  "The website has a very simple interface that makes it easy to understand."
+  - If there was anything that you wanted the developers to add/improve on this website, what would you like to add/improve on?
+  "The link to the youtube video on the home page confused me. It made me think that the links in the guide section were more YouTube videos. (feel free to use these other suggestions) It makes more sense to have the welcome when you're logged in on the home page rather than the account page and be able to see the current account that's logged in without having to go to the account page. The character sheet is simple but the stats could be closer together. A guide on how to make a character would be nice."
+  - From your perspective, can you go over the part of the website that you liked the most and why?
+  "The character creator was my favorite part of the website. It is nice, simple, and looks clean with that DND feel to it."
+  - If the website was completed with new features that you may or may not have mentioned, would you recommend this website to your friends?
+  "I would share the website with others but reccommend is too strong of a word when I haven't used it much."
+  - Was this website easy to use and provided all the information you needed to making characters?
+  "The website was very easy to use since the layout was so simple. However, it did not really explain how to make a character too well."
+  
   ## Reflections:
