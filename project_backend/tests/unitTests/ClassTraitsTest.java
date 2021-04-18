@@ -1,4 +1,5 @@
-package database_classes;
+package classes.databaseClasses;
+package tests.unitTests;
 
 import static org.junit.Assert.*;
 
