@@ -1,20 +1,20 @@
-package classes.databaseClasses;
 
 public class Subrace extends Race
 {
    private int raceID;
    private String raceName;
 
-   public Subraces()
-   {
-     raceID = 0;
-     raceName = "";
-   }
 
    public Subrace(int raceID, String raceName)
    {
-     this.racesID = raceID;
+     this.raceID = raceID;
      this.raceName = raceName;
+   }
+
+   public Subrace()
+   {
+     this.raceID = 0;
+     this.raceName = "";
    }
 
    public int getRaceID()

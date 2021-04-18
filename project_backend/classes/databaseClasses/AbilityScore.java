@@ -1,9 +1,9 @@
-package classes.databaseClasses;
 
-public class AbilityScore()
+
+public class AbilityScore
 {
-   private int[] Score;
-   private int[] ScoreMod;
+   private int[] Score = new int[6];
+   private int[] ScoreMod = new int[6];
    private int Str;
    private int Dex;
    private int Con;
@@ -31,8 +31,72 @@ public class AbilityScore()
      this.Int = Int;
      this.Wis = Wis;
      this.Cha = Cha;
-     Score = new int[this.Str, this.Dex, this.Con, this.Int, this.Wis, this.Cha];
-     ScoreMod = new int[6];
+     this.Score[0] = this.Str;
+     this.Score[1] = this.Dex;
+     this.Score[2] = this.Con;
+     this.Score[3] = this.Int;
+     this.Score[4] = this.Wis;
+     this.Score[3] = this.Cha;
+     ScoreMod = calculateScore();
+   }
+
+   public int getStr()
+   {
+     return this.Str;
+   }
+   public void setStr(int Str)
+   {
+     this.Str = Str;
+   }
+
+   public int getDex()
+   {
+     return this.Dex;
+   }
+   public void setDex(int Dex)
+   {
+     this.Dex = Dex;
+   }
+
+   public int getCon()
+   {
+     return this.Con;
+   }
+   public void setCon(int Con)
+   {
+     this.Con = Con;
+   }
+
+   public int getWis()
+   {
+     return this.Dex;
+   }
+   public void setWis(int Wis)
+   {
+     this.Wis = Wis;
+   }
+
+   public int getCha()
+   {
+     return this.Cha;
+   }
+   public void setCha(int Cha)
+   {
+     this.Cha = Cha;
+   }
+
+   public int getInt()
+   {
+     return this.Int;
+   }
+   public void setInt(int Int)
+   {
+     this.Int = Int;
+   }
+
+   public int[] getScore()
+   {
+      return this.Score;
    }
 
    public int[] calculateScore()
@@ -49,73 +113,73 @@ public class AbilityScore()
        System.out.println("Your Score is: " + Score);
        System.out.println();
        System.out.println("Your Modifiers are: " + ScoreMod);
-
+       
        return Score;
      }
 
    public int scoreToModifier(int value)
      {
-       if(value = 1)
+       if(value == 1)
        {
          return -5;
        }
-       if(value  = 2 || value = 3)
+       if(value  == 2 || value == 3)
        {
          return -4;
        }
-       if(value  = 4 || value = 5)
+       if(value  == 4 || value == 5)
        {
          return -3;
        }
-       if(value  = 6 || value = 7)
+       if(value  == 6 || value == 7)
        {
          return -2;
        }
-       if(value  = 8 || value = 9)
+       if(value  == 8 || value == 9)
        {
          return -1;
        }
-       if(value = 10 || value = 11)
+       if(value == 10 || value == 11)
        {
          return 0;
        }
-       if(value = 12 || value = 13)
+       if(value == 12 || value == 13)
        {
          return 1;
        }
-       if(value = 14 || value = 15)
+       if(value == 14 || value == 15)
        {
          return 2;
        }
-       if(value = 16 || value = 17)
+       if(value == 16 || value == 17)
        {
          return 3;
        }
-       if(value = 18 || value = 19)
+       if(value == 18 || value == 19)
        {
          return 4;
        }
-       if(value = 20 || value = 21)
+       if(value == 20 || value == 21)
        {
          return 5;
        }
-       if(value = 22 || value = 23)
+       if(value == 22 || value == 23)
        {
          return 6;
        }
-       if(value = 24 || value = 25)
+       if(value == 24 || value == 25)
        {
          return 7;
        }
-       if(value = 26 || value = 27)
+       if(value == 26 || value == 27)
        {
          return 8;
        }
-       if(value = 28 || value = 29)
+       if(value == 28 || value == 29)
        {
          return 9;
        }
-       if(value = 30)
+       if(value == 30)
        {
          return 10;
        }

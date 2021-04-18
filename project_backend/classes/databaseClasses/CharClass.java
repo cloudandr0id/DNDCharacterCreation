@@ -1,20 +1,23 @@
 
 
-public class Subclass extends CharClass
+public class CharClass
 {
    private int classID;
    private String className;
+   private int classTrait;
 
-   public Subclass()
+   public CharClass()
    {
      classID = 0;
      className = "";
+     classTrait = 0;
    }
 
-   public Subclass(int classID, String className)
+   public CharClass(int classID, String className, int classTrait)
    {
      this.classID = classID;
      this.className = className;
+     this.classTrait = classTrait;
    }
 
    public int getClassID()
@@ -36,4 +39,19 @@ public class Subclass extends CharClass
      {
        return this.className;
      }
+
+     public int getClassTrait()
+       {
+         return this.classTrait;
+       }
+
+     public void setClassTrait(int trait)
+       {
+         this.classTrait = trait;
+       }
+
+  public boolean checkLevel()
+    {
+      return true;
+    }
 }

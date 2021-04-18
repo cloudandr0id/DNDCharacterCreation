@@ -1,18 +1,17 @@
-package classes.databaseClasses;
 
 public class Character{
 	public String name;
 	public Race race;
-	public SubRace subRace;
+	public Subrace subRace;
 	public AbilityScore abilityScore;
-	public Class charClass
-	public Subclass subclass
+	public CharClass charClass;
+	public Subclass subclass;
 	public Background background;
 	public Level level;
 
 	// constructor
-	public Character(String name, Race race, SubRace subRace,
-	AbilityScore abilityScore, Class charClass, Subclass subclass,
+	public Character(String name, Race race, Subrace subRace,
+	AbilityScore abilityScore, CharClass charClass, Subclass subclass,
 	Background background, Level level)
 	{
 		this.name = name;
@@ -34,11 +33,7 @@ public class Character{
 		this.charClass = null;
 		this.subclass = null;
 		this.background = null;
-		this.level = 0;
-	}
-
-	public int calculateScore(){
-		return abilityScore.calculateScore()
+		this.level = null;
 	}
 
 	public String getName()
@@ -61,12 +56,12 @@ public class Character{
 		this.race = race;
 	}
 
-	public SubRace getSubRace()
+	public Subrace getSubRace()
 	{
 		return this.subRace;
 	}
 
-	public void setSubRace(SubRace subRace)
+	public void setSubRace(Subrace subRace)
 	{
 		this.subRace = subRace;
 	}
@@ -81,12 +76,12 @@ public class Character{
 		this.abilityScore = abilityScore;
 	}
 
-	public Class getClass()
+	public CharClass getCharClass()
 	{
 		return this.charClass;
 	}
 
-	public void setClass(Class charClass)
+	public void setCharClass(CharClass charClass)
 	{
 		this.charClass = charClass;
 	}

@@ -1,4 +1,4 @@
-package classes.databaseClasses;
+
 
 public class Account{
 	public String email;

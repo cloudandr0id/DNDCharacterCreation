@@ -1,4 +1,4 @@
-package classes.databaseClasses;
+
 
 public class Race
 {
@@ -38,7 +38,7 @@ public class Race
        this.raceSpeed = speed;
      }
 
-   public void getSpeed()
+   public int getSpeed()
      {
        return this.raceSpeed;
      }
@@ -53,7 +53,7 @@ public class Race
        return this.raceName;
      }
 
-   public int setRaceTrait(int trait)
+   public void setRaceTrait(int trait)
      {
        this.raceTrait = trait;
      }
