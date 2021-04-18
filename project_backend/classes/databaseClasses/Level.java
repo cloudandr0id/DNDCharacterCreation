@@ -20,5 +20,19 @@ public class Level
 	public void setProficiency(int val){
 		this.proficiency = val;
 	}
-	public getProficiency()
+
+	public int getProficiency()
+	{
+		return this.proficiency;
+	}
+
+	public void setLevel(int level){
+		this.level = level;
+	}
+
+	public int getLevel()
+	{
+		return this.level;
+	}
+
 }

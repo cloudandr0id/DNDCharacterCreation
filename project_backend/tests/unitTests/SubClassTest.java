@@ -15,14 +15,14 @@ public class SubClassTest
     public void evaluateSubClassID()
     {
         subclass.setClassID(12);
-        assertEquals(subclass.getClassID, 12);
+        assertEquals(subclass.getClassID(), 12);
     }
 
     @Test
     public void evaluateSubClassName()
     {
         subclass.setClassName("College-Of-Lore");
-        assertEquals(subclass.getClassName, "College-Of-Lore");
+        assertEquals(subclass.getClassName(), "College-Of-Lore");
     }
 
 

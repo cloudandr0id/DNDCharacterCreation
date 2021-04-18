@@ -15,14 +15,14 @@ public class RaceTraitsTest
     public void evaluateRaceTrait()
     {
         racetraits.setRaceTrait(2);
-        assertEquals(racetraits.getRaceTrait, 2);
+        assertEquals(racetraits.getRaceTrait(), 2);
     }
 
     @Test
     public void evaluateRaceSpeed()
     {
         racetraits.setRaceTrait(25);
-        assertEquals(racetraits.getRaceTrait, 25);
+        assertEquals(racetraits.getRaceTrait(), 25);
     }
 
 }

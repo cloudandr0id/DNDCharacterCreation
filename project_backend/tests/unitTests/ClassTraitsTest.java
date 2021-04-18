@@ -15,8 +15,14 @@ public class ClassTraitsTest
     public void evaluateClassTrait()
     {
         classtraits.setClassTrait(10);
-        assertEquals(classtraits.getClassTrait, 10);
+        assertEquals(classtraits.getClassTrait(), 10);
     }
 
+    @Test
+    public void evaluateTitle()
+    {
+        classtraits.setTitle("Bard");
+        assertEquals(classtraits.getTitle(), "Bard");
+    }
 
 }

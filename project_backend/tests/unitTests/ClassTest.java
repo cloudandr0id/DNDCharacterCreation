@@ -15,21 +15,21 @@ public class ClassTest
     public void evaluateClassID()
     {
         class.setClassID(10);
-        assertEquals(class.getClassID, 10);
+        assertEquals(class.getClassID(), 10);
     }
 
     @Test
     public void evaluateClassName()
     {
         class.setClassName("Wizard");
-        assertEquals(class.getClassName, "Wizard");
+        assertEquals(class.getClassName(), "Wizard");
     }
 
     @Test
     public void evaluateClassTrait()
     {
         class.setClassTrait(2);
-        assertEquals(class.getClassTrait, 2);
+        assertEquals(class.getClassTrait(), 2);
     }
 
 }
