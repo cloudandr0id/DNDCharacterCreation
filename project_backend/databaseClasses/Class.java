@@ -1,4 +1,4 @@
-package database_classes;
+package tests.database_classes;
 
 public class Class
 {

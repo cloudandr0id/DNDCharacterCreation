@@ -1,4 +1,4 @@
-
+package tests.database_classes;
 
 public class Account{
 	public String email;

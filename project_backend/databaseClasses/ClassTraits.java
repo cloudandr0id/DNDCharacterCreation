@@ -32,12 +32,12 @@ public class ClassTraits extends Class
      }
   public int setClassTrait(int trait)
      {
-       classtrait = trait;
+       this.classtrait = trait;
      }
 
    public int getClassTrait()
      {
-       return classTrait;
+       return this.classTrait;
      }
 
    public boolean checkLevel()

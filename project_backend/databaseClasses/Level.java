@@ -5,7 +5,7 @@ public class Level
 	public int level;
 	public int proficiency;
 
-  public Level()
+ 	public Level()
 	{
 		level = 0;
 		proficiency = 0;
@@ -18,6 +18,7 @@ public class Level
 	}
 
 	public void setProficiency(int val){
-		proficiency = val;
+		this.proficiency = val;
 	}
+	public getProficiency()
 }

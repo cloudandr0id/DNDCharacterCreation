@@ -19,7 +19,7 @@ public class RaceTraits extends Race
 
    public void setSpeed(int speed)
      {
-       raceSpeed = speed;
+       this.raceSpeed = speed;
      }
 
    public void getSpeed()
@@ -29,7 +29,7 @@ public class RaceTraits extends Race
 
    public int setRaceTrait(int trait)
      {
-       raceTrait = trait;
+       this.raceTrait = trait;
      }
 
    public int getRaceTrait()
