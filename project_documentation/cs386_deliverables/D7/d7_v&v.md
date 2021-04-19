@@ -40,6 +40,8 @@ The DND Character Constructor is an online utility for the game Dungeons and Dra
   
 ## 2.3. Acceptance
   ### 2.3.1
+    We would have used Cypress to conduct acceptance tests if the website didn't crash.
+  
   ### 2.3.2
   ### 2.3.3
   ### 2.3.4
